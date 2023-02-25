@@ -3,8 +3,18 @@
     padding: 30px;
 }
 
+.Titles {
+    display: flex;
+    justify-content: space-between;
+}
+
 .VisName {
     color: white;
+}
+
+.WarehouseZones {
+    display: flex;
+    justify-content: center;
 }
 
 .PlaceChart {

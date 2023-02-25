@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div className="Title">
-        <h1 className='ninja'>ninja</h1><h1 className='van'>van</h1>
+        <h1 className='ninja'>ninja</h1><h1 className='van'>eye</h1>
         <img src={NINJAPIC} className="ninjapic"/>
         
       </div>
