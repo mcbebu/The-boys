@@ -2,14 +2,14 @@ import React from 'react'
 import './visualisation1.css'
 import MyChart from './MyChart'
 
-
 const Visualisation1 = () => {
   return (
     <div className="container Vis1Section">
       <h3 className='VisName'>Visualisation1</h3>
-      <div>
+      <div className='PlaceChart'>
         <MyChart/>
       </div>
+
     </div>
   )
 }

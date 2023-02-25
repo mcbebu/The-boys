@@ -1,7 +1,6 @@
 import './App.css';
 import Visualisation1 from './components/Visualisation1';
 import NINJAPIC from './assets/Ninja.png'
-// import React, { useState, useEffect } from 'react'
 
 function App() {
 
