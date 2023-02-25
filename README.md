@@ -3,7 +3,11 @@
 Members: Brandon, Qijie, Malcolm, Jared
 
 ## Problem Statement
+In warehouses that rely on manual labour for sorting, during peak periods there is a large volume of both workers and packages. This in combination with bad visibility of package movement causes the manager to rely on his perception of where the choke points are. 
 
 ## Project Description:
-MVP
+### Solution
 > Creating an updated Dashboard to improve visualbility of package load in the warehouse to enable efficient manpower allocations
+
+### MVP
+> Provide a quick glance dashboard that shows the number of packages being processed, percentage of each size and how many steps it has taken measured by unique scans
