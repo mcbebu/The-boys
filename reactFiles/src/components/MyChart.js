@@ -70,7 +70,7 @@ function MyChart() {
       } else {
         setCount(count + 1);
       }
-    }, 10000);
+    }, 1000);
     return () => clearInterval(interval);
   }, [count]);
 
