@@ -10,4 +10,4 @@ In warehouses that rely on manual labour for sorting, during peak periods there 
 > Creating an updated Dashboard to improve visualbility of package load in the warehouse to enable efficient manpower allocations
 
 ### MVP
-> Provide a quick glance dashboard that shows the number/percentage of packages at which point they are scanned
+> Provide a quick glance dashboard that shows the number of packages being processed, percentage of each size and how many steps it has taken measured by unique scans
