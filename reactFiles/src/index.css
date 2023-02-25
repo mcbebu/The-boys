@@ -8,6 +8,7 @@ body {
 
   background:var(--color-dr);
   color: var(--color-white);
+  background-image: url(./assets/bg-texture.png);
   line-height: 1.7;
 }
 
