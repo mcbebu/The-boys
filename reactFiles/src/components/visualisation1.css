@@ -21,3 +21,9 @@
     background-color: white;
 }
 
+/* below is for second section */
+
+.AISection {
+    background-color: var(--color-lr);
+    padding: 30px;
+}

@@ -1,16 +1,16 @@
 order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
-167006051,103410,warehouse_sweep,xl,A,2/1/23 18:24,B04-E (TOH TUCK ROAD)
-167006051,103410,warehouse_sweep,xl,A,2/1/23 18:24,B04-E (TOH TUCK ROAD)
-167006051,103410,warehouse_sweep,xl,A,2/1/23 18:24,B04-E (TOH TUCK ROAD)
-167006051,103410,warehouse_sweep,xl,A,2/1/23 18:24,B04-E (TOH TUCK ROAD)
+167006051,103410,warehouse_sweep,xl,C,2/1/23 18:24,B04-E (TOH TUCK ROAD)
+167006051,103410,warehouse_sweep,xl,C,2/1/23 18:24,B04-E (TOH TUCK ROAD)
+167006051,103410,warehouse_sweep,xl,C,2/1/23 18:24,B04-E (TOH TUCK ROAD)
+167006051,103410,warehouse_sweep,xl,C,2/1/23 18:24,B04-E (TOH TUCK ROAD)
 167006051,103410,global_inbound,xl,A,2/1/23 18:24,B04-E (TOH TUCK ROAD)
 167006051,103410,warehouse_sweep,xl,A,2/1/23 18:24,B04-E (TOH TUCK ROAD)
 167006051,103410,warehouse_sweep,xl,A,2/1/23 18:24,B04-E (TOH TUCK ROAD)
 167006051,103410,warehouse_sweep,xl,A,2/1/23 18:24,B04-E (TOH TUCK ROAD)
 167006051,103410,warehouse_sweep,xl,A,2/1/23 18:24,B04-E (TOH TUCK ROAD)
 167006051,103410,warehouse_sweep,xl,A,2/1/23 18:24,B04-E (TOH TUCK ROAD)
-167006051,103410,warehouse_sweep,xl,B,2/1/23 18:24,B04-E (TOH TUCK ROAD)
-167006051,103410,warehouse_sweep,xl,B,2/1/23 18:24,B04-E (TOH TUCK ROAD)
+167006051,103410,warehouse_sweep,xl,C,2/1/23 18:24,B04-E (TOH TUCK ROAD)
+167006051,103410,warehouse_sweep,xl,C,2/1/23 18:24,B04-E (TOH TUCK ROAD)
 167006051,103410,warehouse_sweep,xl,B,2/1/23 18:24,B04-E (TOH TUCK ROAD)
 167006051,103410,global_inbound,xl,B,2/1/23 18:24,B04-E (TOH TUCK ROAD)
 167006051,103410,warehouse_sweep,xl,B,2/1/23 18:24,B04-E (TOH TUCK ROAD)
@@ -69,8 +69,8 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 166976821,103429,global_inbound,s,J,2/1/23 23:28,B06-H (CHESTNUT AVENUE)
 167023551,103410,global_inbound,xs,J,2/1/23 23:28,G03-K (COTSWOLD CLOSE)
 167006051,104813,warehouse_sweep,xl,J,2/1/23 23:48,B04-E (TOH TUCK ROAD)
-166798141,104813,warehouse_sweep,s,A,3/1/23 0:10,B02-B (CLEMENTI AVENUE 6)
-166804651,223,warehouse_sweep,xs,A,3/1/23 0:21,D01-B (GOLDHILL AVENUE)
+166798141,104813,warehouse_sweep,s,C,3/1/23 0:10,B02-B (CLEMENTI AVENUE 6)
+166804651,223,warehouse_sweep,xs,C,3/1/23 0:21,D01-B (GOLDHILL AVENUE)
 167117701,103410,global_inbound,m,A,3/1/23 0:35,B07-A (PHOENIX AVENUE)
 166999531,103410,global_inbound,xs,A,3/1/23 0:39,H07-B (ANCHORVALE COVE)
 166949701,103410,global_inbound,xs,A,3/1/23 0:39,L06-E (TAMPINES STREET 71)
@@ -85,8 +85,8 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167005001,256,warehouse_sweep,xs,B,3/1/23 1:15,H07-K (BUANGKOK CRESCENT)
 167026031,103429,global_inbound,s,B,3/1/23 1:21,F03-A (PEMIMPIN)
 166664831,104957,warehouse_sweep,s,B,3/1/23 1:43,A07-E
-166664831,104957,warehouse_sweep,s,B,3/1/23 1:43,A07-E
-166664831,104957,warehouse_sweep,s,B,3/1/23 1:43,A07-E
+166664831,104957,warehouse_sweep,s,C,3/1/23 1:43,A07-E
+166664831,104957,warehouse_sweep,s,C,3/1/23 1:43,A07-E
 166664831,104957,warehouse_sweep,s,C,3/1/23 1:43,A07-E
 166664831,104957,warehouse_sweep,s,C,3/1/23 1:48,A07-E
 166664831,2,warehouse_sweep,s,C,3/1/23 2:23,A07-E
@@ -104,8 +104,8 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 166938951,104813,warehouse_sweep,xs,E,3/1/23 3:12,B05-E (BUKIT BATOK STREET 11)
 167129891,104267,warehouse_sweep,xs,E,3/1/23 3:22,L04-G (SIMEI STREET 3)
 166949701,104267,warehouse_sweep,xs,E,3/1/23 3:24,L06-E (TAMPINES STREET 71)
-166938951,104813,warehouse_sweep,xs,F,3/1/23 3:29,B05-E (BUKIT BATOK STREET 11)
-166610881,253,warehouse_sweep,m,F,3/1/23 3:45,E02-E (TELOK AYER STREET)
+166938951,104813,warehouse_sweep,xs,C,3/1/23 3:29,B05-E (BUKIT BATOK STREET 11)
+166610881,253,warehouse_sweep,m,C,3/1/23 3:45,E02-E (TELOK AYER STREET)
 166652771,246,warehouse_sweep,xs,F,3/1/23 3:55,J10-J (HAIG ROAD)
 166919271,246,warehouse_sweep,xs,F,3/1/23 3:58,J09-C (CASSIA CRESCENT)
 166976541,104813,warehouse_sweep,m,F,3/1/23 4:07,B10-G (CHOA CHU KANG CR)
@@ -154,9 +154,9 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167147751,103410,warehouse_sweep,s,B,3/1/23 20:09,J10-H (TEMBELING ROAD)
 167120511,103410,global_inbound,xs,B,3/1/23 20:14,H02-C (PUNGGOL PL)
 167001881,103410,global_inbound,s,B,3/1/23 20:22,B07-J (CHOA CHU KANG DRIVE)
-166991441,103410,global_inbound,m,B,3/1/23 20:26,B10-A (LIMBANG PARK)
-167108111,103410,global_inbound,xs,B,3/1/23 20:33,E09-E (KEMPAS ROAD)
-166879871,103410,global_inbound,xs,B,3/1/23 20:39,J09-G (LORONG 40 GEYLANG)
+166991441,103410,global_inbound,m,C,3/1/23 20:26,B10-A (LIMBANG PARK)
+167108111,103410,global_inbound,xs,C,3/1/23 20:33,E09-E (KEMPAS ROAD)
+166879871,103410,global_inbound,xs,C,3/1/23 20:39,J09-G (LORONG 40 GEYLANG)
 166680471,2,warehouse_sweep,xs,C,3/1/23 21:01,D04-G (LEONIE HILL ROAD)
 166664831,2,warehouse_sweep,s,C,3/1/23 21:15,A07-E
 166379961,2,warehouse_sweep,l,C,3/1/23 21:27,D03-H (KAY SIANG ROAD)
@@ -193,16 +193,16 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167001881,104813,warehouse_sweep,s,H,3/1/23 23:33,B07-J (CHOA CHU KANG DRIVE)
 166926391,103410,global_inbound,s,H,3/1/23 23:38,D01-E (ADAM PARK)
 166951951,251,warehouse_sweep,xs,H,3/1/23 23:40,G07-K (WOODLANDS CRESCENT)
-167032871,103410,global_inbound,xs,I,3/1/23 23:52,J10-G (SERAYA LANE)
-167228711,103410,global_inbound,xs,I,3/1/23 23:54,E10-E (BALESTIER)
+167032871,103410,global_inbound,xs,C,3/1/23 23:52,J10-G (SERAYA LANE)
+167228711,103410,global_inbound,xs,C,3/1/23 23:54,E10-E (BALESTIER)
 166784281,104813,warehouse_sweep,s,I,4/1/23 0:15,B01-B (JURONG EAST STREET31)
 167093021,223,warehouse_sweep,s,I,4/1/23 0:21,D01-J (KING ALBERT PARK)
 166984961,223,warehouse_sweep,xs,I,4/1/23 0:34,D10-D (DRAYCOTT PARK)
 167066331,104813,warehouse_sweep,xs,I,4/1/23 0:48,B03-K (WEST COAST CRESCENT)
 167222891,103410,global_inbound,s,I,4/1/23 0:56,B09-G (TECK WHY CR)
 167222891,103410,warehouse_sweep,s,I,4/1/23 0:58,B09-G (TECK WHY CR)
-167252881,103410,global_inbound,xs,J,4/1/23 1:06,F10-E (ANG MO KIO AVENUE 9)
-167252881,103410,global_inbound,xs,J,4/1/23 1:07,F10-E (ANG MO KIO AVENUE 9)
+167252881,103410,global_inbound,xs,C,4/1/23 1:06,F10-E (ANG MO KIO AVENUE 9)
+167252881,103410,global_inbound,xs,C,4/1/23 1:07,F10-E (ANG MO KIO AVENUE 9)
 167147751,246,warehouse_sweep,s,J,4/1/23 1:12,J10-H (TEMBELING ROAD)
 167089921,103410,global_inbound,xs,J,4/1/23 1:13,G01-G (SERANGOON GARDEN WAY)
 167231321,103410,global_inbound,xs,J,4/1/23 1:19,L01-D (TAMPINES AVENUE 8)
@@ -217,16 +217,16 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167203211,103410,warehouse_sweep,s,A,4/1/23 1:45,B07-C (KEAT HONG LINK)
 167203211,103410,warehouse_sweep,s,A,4/1/23 1:45,B07-C (KEAT HONG LINK)
 167203211,103410,warehouse_sweep,s,A,4/1/23 1:45,B07-C (KEAT HONG LINK)
-167203211,103410,warehouse_sweep,s,A,4/1/23 1:45,B07-C (KEAT HONG LINK)
-167203211,103410,warehouse_sweep,s,A,4/1/23 1:45,B07-C (KEAT HONG LINK)
+167203211,103410,warehouse_sweep,s,C,4/1/23 1:45,B07-C (KEAT HONG LINK)
+167203211,103410,warehouse_sweep,s,C,4/1/23 1:45,B07-C (KEAT HONG LINK)
 167203211,103410,warehouse_sweep,s,B,4/1/23 1:45,B07-C (KEAT HONG LINK)
 167203211,103410,warehouse_sweep,s,B,4/1/23 1:45,B07-C (KEAT HONG LINK)
 167203211,103410,warehouse_sweep,s,B,4/1/23 1:45,B07-C (KEAT HONG LINK)
 167203211,103410,warehouse_sweep,s,B,4/1/23 1:45,B07-C (KEAT HONG LINK)
 167203211,103410,warehouse_sweep,s,B,4/1/23 1:45,B07-C (KEAT HONG LINK)
 167203211,103410,global_inbound,s,B,4/1/23 1:45,B07-C (KEAT HONG LINK)
-167053551,103410,global_inbound,xs,B,4/1/23 1:45,L04-F (SIMEI STREET 1)
-167254951,103410,global_inbound,xs,B,4/1/23 1:50,G04-G (POTONG PASIR AVENUE 3)
+167053551,103410,global_inbound,xs,C,4/1/23 1:45,L04-F (SIMEI STREET 1)
+167254951,103410,global_inbound,xs,C,4/1/23 1:50,G04-G (POTONG PASIR AVENUE 3)
 167172391,103410,global_inbound,xs,C,4/1/23 1:51,A07-F
 167254951,103430,global_inbound,xs,C,4/1/23 1:52,G04-G (POTONG PASIR AVENUE 3)
 166496291,103410,global_inbound,xs,C,4/1/23 1:52,
@@ -248,10 +248,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167172391,103426,warehouse_sweep,xs,F,4/1/23 2:50,A07-F
 167064001,104267,warehouse_sweep,xs,F,4/1/23 2:50,L09-F (PASIR RIS STREET 12)
 167110851,223,warehouse_sweep,xs,F,4/1/23 2:52,D02-F (NORTH BUONA VISTA ROAD)
-167172391,103426,warehouse_sweep,xs,F,4/1/23 2:54,A07-F
-167172391,103426,warehouse_sweep,xs,F,4/1/23 2:54,A07-F
-167023521,256,warehouse_sweep,s,F,4/1/23 3:05,H02-H (PUNGGOL COAST ROAD)
-167060131,104267,warehouse_sweep,s,F,4/1/23 3:16,L04-B (TAMPINES STREET 34)
+167172391,103426,warehouse_sweep,xs,C,4/1/23 2:54,A07-F
+167172391,103426,warehouse_sweep,xs,C,4/1/23 2:54,A07-F
+167023521,256,warehouse_sweep,s,C,4/1/23 3:05,H02-H (PUNGGOL COAST ROAD)
+167060131,104267,warehouse_sweep,s,C,4/1/23 3:16,L04-B (TAMPINES STREET 34)
 166496291,104957,warehouse_sweep,xs,G,4/1/23 3:28,
 166908591,256,warehouse_sweep,m,G,4/1/23 3:29,H13-F (ST XAVIER'S LANE)
 167222891,104813,warehouse_sweep,s,G,4/1/23 3:34,B09-G (TECK WHY CR)
@@ -269,10 +269,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 166908591,256,warehouse_sweep,m,I,4/1/23 4:09,H13-F (ST XAVIER'S LANE)
 166992821,103410,global_inbound,xs,I,4/1/23 4:11,G10-F (YISHUN STREET 72)
 167067241,103410,global_inbound,xs,I,4/1/23 4:12,H06-F (COMPASSVALE DRIVE)
-167172391,104957,warehouse_sweep,xs,I,4/1/23 4:13,A07-F
-167057031,103410,global_inbound,xs,I,4/1/23 4:16,D01-F (SUNSET AVENUE)
-167057031,103410,warehouse_sweep,xs,J,4/1/23 4:17,D01-F (SUNSET AVENUE)
-167260031,104267,warehouse_sweep,m,J,4/1/23 4:18,L07-E (PASIR RIS DRIVE 10)
+167172391,104957,warehouse_sweep,xs,C,4/1/23 4:13,A07-F
+167057031,103410,global_inbound,xs,C,4/1/23 4:16,D01-F (SUNSET AVENUE)
+167057031,103410,warehouse_sweep,xs,C,4/1/23 4:17,D01-F (SUNSET AVENUE)
+167260031,104267,warehouse_sweep,m,C,4/1/23 4:18,L07-E (PASIR RIS DRIVE 10)
 167058801,104957,warehouse_sweep,xs,J,4/1/23 4:19,A02-F
 167143261,103410,global_inbound,xs,J,4/1/23 4:22,G06-D (WOODLANDS STREET 83)
 167066321,103410,global_inbound,xs,J,4/1/23 4:26,G05-F (VERNON PARK)
@@ -287,10 +287,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167083341,103410,global_inbound,s,A,4/1/23 4:41,G04-L (BURN ROAD)
 167104771,103410,global_inbound,xs,A,4/1/23 4:41,L10-A (PASIR RIS STREET 13)
 167254951,251,warehouse_sweep,xs,A,4/1/23 4:42,G04-G (POTONG PASIR AVENUE 3)
-167083341,103410,warehouse_sweep,s,A,4/1/23 4:43,G04-L (BURN ROAD)
-167203211,104813,warehouse_sweep,s,A,4/1/23 4:45,B07-C (KEAT HONG LINK)
-167012481,103410,global_inbound,xs,B,4/1/23 4:45,H05-L (BUANGKOK STATION)
-167154911,103410,global_inbound,xs,B,4/1/23 4:50,D01-C (JALAN ADAT)
+167083341,103410,warehouse_sweep,s,C,4/1/23 4:43,G04-L (BURN ROAD)
+167203211,104813,warehouse_sweep,s,C,4/1/23 4:45,B07-C (KEAT HONG LINK)
+167012481,103410,global_inbound,xs,C,4/1/23 4:45,H05-L (BUANGKOK STATION)
+167154911,103410,global_inbound,xs,C,4/1/23 4:50,D01-C (JALAN ADAT)
 167042751,103410,global_inbound,xs,B,4/1/23 5:02,J08-K (EUNOS CRESCENT)
 167082841,104267,warehouse_sweep,xs,B,4/1/23 5:04,L03-A (TAMPINES STREET 21)
 167222021,103430,global_inbound,s,B,4/1/23 5:10,G10-A (CANBERRA VISTA)
@@ -312,10 +312,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 166379961,2,global_inbound,l,E,4/1/23 6:14,D03-H (KAY SIANG ROAD)
 166938951,104957,warehouse_sweep,xs,E,4/1/23 6:21,B05-E (BUKIT BATOK STREET 11)
 167025811,253,warehouse_sweep,xs,E,4/1/23 6:35,E09-H (FARRER PARK)
-167228711,253,warehouse_sweep,xs,E,4/1/23 6:40,E10-E (BALESTIER)
-167252881,237,warehouse_sweep,xs,E,4/1/23 6:44,F10-E (ANG MO KIO AVENUE 9)
-166938951,104957,warehouse_sweep,xs,F,4/1/23 6:45,B05-E (BUKIT BATOK STREET 11)
-167252881,237,warehouse_sweep,xs,F,4/1/23 6:45,F10-E (ANG MO KIO AVENUE 9)
+167228711,253,warehouse_sweep,xs,C,4/1/23 6:40,E10-E (BALESTIER)
+167252881,237,warehouse_sweep,xs,C,4/1/23 6:44,F10-E (ANG MO KIO AVENUE 9)
+166938951,104957,warehouse_sweep,xs,C,4/1/23 6:45,B05-E (BUKIT BATOK STREET 11)
+167252881,237,warehouse_sweep,xs,C,4/1/23 6:45,F10-E (ANG MO KIO AVENUE 9)
 167112351,237,warehouse_sweep,xs,F,4/1/23 6:55,F09-C (ANG MO KIO STREET 51)
 167260031,104267,warehouse_sweep,m,F,4/1/23 8:46,L07-E (PASIR RIS DRIVE 10)
 167260031,104267,warehouse_sweep,m,F,4/1/23 8:48,L07-E (PASIR RIS DRIVE 10)
@@ -326,10 +326,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 166379961,109,global_inbound,l,G,4/1/23 10:39,D03-H (KAY SIANG ROAD)
 166379961,109,warehouse_sweep,l,G,4/1/23 10:40,D03-H (KAY SIANG ROAD)
 167260031,104267,warehouse_sweep,m,G,4/1/23 11:10,L07-E (PASIR RIS DRIVE 10)
-167172391,109,warehouse_sweep,xs,G,4/1/23 12:16,A07-F
-166664831,2,global_inbound,s,G,4/1/23 13:19,A07-E
-167051981,103410,global_inbound,xs,H,4/1/23 13:38,C01-F (WOODLANDS AVENUE 1)
-167051981,103410,global_inbound,xs,H,4/1/23 13:38,C01-F (WOODLANDS AVENUE 1)
+167172391,109,warehouse_sweep,xs,C,4/1/23 12:16,A07-F
+166664831,2,global_inbound,s,C,4/1/23 13:19,A07-E
+167051981,103410,global_inbound,xs,C,4/1/23 13:38,C01-F (WOODLANDS AVENUE 1)
+167051981,103410,global_inbound,xs,C,4/1/23 13:38,C01-F (WOODLANDS AVENUE 1)
 167295431,103410,global_inbound,m,H,4/1/23 13:59,C01-H (WOODGROVE VIEW)
 167295431,103410,global_inbound,m,H,4/1/23 14:00,C01-H (WOODGROVE VIEW)
 167089311,103410,global_inbound,s,H,4/1/23 14:00,G10-B (THE VISIONAIRE)
@@ -356,10 +356,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167110501,103410,warehouse_sweep,m,A,4/1/23 16:40,F05-B (FLAME TREE PARK)
 167116131,103410,global_inbound,xs,A,4/1/23 18:07,H03-F (GREENDALE CHORALE)
 166882721,103410,global_inbound,xs,A,4/1/23 18:16,H01-A (NORTHSHORE DRIVE)
-166882721,103410,warehouse_sweep,xs,A,4/1/23 18:16,H01-A (NORTHSHORE DRIVE)
-167044721,103410,global_inbound,xs,A,4/1/23 18:18,E10-F (JLN RAJAH)
-167003991,103410,global_inbound,s,A,4/1/23 18:31,G08-J (BLUE RIVERVIEW)
-167208251,103410,global_inbound,xs,B,4/1/23 18:34,K09-A (SIMPANG BEDOK)
+166882721,103410,warehouse_sweep,xs,C,4/1/23 18:16,H01-A (NORTHSHORE DRIVE)
+167044721,103410,global_inbound,xs,C,4/1/23 18:18,E10-F (JLN RAJAH)
+167003991,103410,global_inbound,s,C,4/1/23 18:31,G08-J (BLUE RIVERVIEW)
+167208251,103410,global_inbound,xs,C,4/1/23 18:34,K09-A (SIMPANG BEDOK)
 167033061,103410,global_inbound,m,B,4/1/23 18:43,L04-D (TAMPINES TREE PARK)
 167033061,103410,warehouse_sweep,m,B,4/1/23 18:43,L04-D (TAMPINES TREE PARK)
 167235561,103410,global_inbound,xs,B,4/1/23 18:49,G01-K (SERANGOON AVENUE 4)
@@ -401,10 +401,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167113741,103410,global_inbound,xs,H,4/1/23 23:09,F07-A (ANG MO KIO AVENUE 1)
 167255371,256,warehouse_sweep,s,H,4/1/23 23:12,H03-G (MERIDIAN PARK)
 167057031,223,warehouse_sweep,xs,H,4/1/23 23:14,D01-F (SUNSET AVENUE)
-167260031,104267,warehouse_sweep,m,H,4/1/23 23:33,L07-E (PASIR RIS DRIVE 10)
-167260031,104267,warehouse_sweep,m,H,4/1/23 23:34,L07-E (PASIR RIS DRIVE 10)
-167213301,103426,global_inbound,s,I,4/1/23 23:35,D10-F (GOODWOOD RESIDENCE)
-167203151,104957,warehouse_sweep,xs,I,4/1/23 23:37,A03-A
+167260031,104267,warehouse_sweep,m,C,4/1/23 23:33,L07-E (PASIR RIS DRIVE 10)
+167260031,104267,warehouse_sweep,m,C,4/1/23 23:34,L07-E (PASIR RIS DRIVE 10)
+167213301,103426,global_inbound,s,C,4/1/23 23:35,D10-F (GOODWOOD RESIDENCE)
+167203151,104957,warehouse_sweep,xs,C,4/1/23 23:37,A03-A
 167067471,104957,warehouse_sweep,xs,I,4/1/23 23:39,A04-C
 167083341,251,warehouse_sweep,s,I,4/1/23 23:40,G04-L (BURN ROAD)
 166992821,251,warehouse_sweep,xs,I,4/1/23 23:46,G10-F (YISHUN STREET 72)
@@ -417,10 +417,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167222021,251,warehouse_sweep,s,J,4/1/23 23:53,G10-A (CANBERRA VISTA)
 167112431,103410,global_inbound,xs,J,4/1/23 23:53,H03-L (PUNGGOL WATERWAY)
 167032181,256,warehouse_sweep,m,J,4/1/23 23:57,H01-J (PUNGGOL WALK)
-166992081,104957,warehouse_sweep,xs,J,5/1/23 0:00,A06-F
-166992081,104957,warehouse_sweep,xs,J,5/1/23 0:12,A06-F
-166310371,104957,warehouse_sweep,m,J,5/1/23 0:15,J10-K (KOON SENG ROAD)
-167203151,104957,warehouse_sweep,xs,A,5/1/23 0:25,A03-A
+166992081,104957,warehouse_sweep,xs,C,5/1/23 0:00,A06-F
+166992081,104957,warehouse_sweep,xs,C,5/1/23 0:12,A06-F
+166310371,104957,warehouse_sweep,m,C,5/1/23 0:15,J10-K (KOON SENG ROAD)
+167203151,104957,warehouse_sweep,xs,C,5/1/23 0:25,A03-A
 167236781,256,warehouse_sweep,m,A,5/1/23 0:27,H01-D (SUMANG LANE)
 167236781,256,warehouse_sweep,m,A,5/1/23 0:27,H01-D (SUMANG LANE)
 167067471,104957,warehouse_sweep,xs,A,5/1/23 0:29,A04-C
@@ -429,10 +429,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 166992081,104957,warehouse_sweep,xs,A,5/1/23 0:31,A06-F
 167235561,251,warehouse_sweep,xs,A,5/1/23 0:35,G01-K (SERANGOON AVENUE 4)
 167298271,104813,warehouse_sweep,xs,A,5/1/23 0:43,B06-E (HILLVIEW AVENUE)
-167264311,103410,global_inbound,s,A,5/1/23 0:46,L02-G (TAMPINES STREET 11)
-167264311,103410,warehouse_sweep,s,B,5/1/23 0:51,L02-G (TAMPINES STREET 11)
-166806261,103426,warehouse_sweep,xs,B,5/1/23 1:00,E04-D (MILLENIA WALK)
-167163831,256,warehouse_sweep,xs,B,5/1/23 1:11,H04-J  (RIVERVALE LN)
+167264311,103410,global_inbound,s,C,5/1/23 0:46,L02-G (TAMPINES STREET 11)
+167264311,103410,warehouse_sweep,s,C,5/1/23 0:51,L02-G (TAMPINES STREET 11)
+166806261,103426,warehouse_sweep,xs,C,5/1/23 1:00,E04-D (MILLENIA WALK)
+167163831,256,warehouse_sweep,xs,C,5/1/23 1:11,H04-J  (RIVERVALE LN)
 167298731,103410,global_inbound,l,B,5/1/23 1:18,F10-H (TAGORE LANE)
 167348671,103410,global_inbound,s,B,5/1/23 1:23,C03-H (WOODLANDS DRIVE 14)
 167210311,256,warehouse_sweep,xs,B,5/1/23 1:35,H03-L (PUNGGOL WATERWAY)
@@ -480,10 +480,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167361281,103410,global_inbound,s,I,5/1/23 4:11,K09-A (SIMPANG BEDOK)
 167361281,103410,warehouse_sweep,s,I,5/1/23 4:11,K09-A (SIMPANG BEDOK)
 167360691,103410,global_inbound,s,I,5/1/23 4:13,E10-E (BALESTIER)
-167228961,103410,global_inbound,xs,I,5/1/23 4:13,G08-A (CANBERRA ROAD)
-167360691,103410,warehouse_sweep,s,I,5/1/23 4:14,E10-E (BALESTIER)
-166121091,103410,global_inbound,m,J,5/1/23 4:15,D09-H
-166121091,103410,warehouse_sweep,m,J,5/1/23 4:16,D09-H
+167228961,103410,global_inbound,xs,C,5/1/23 4:13,G08-A (CANBERRA ROAD)
+167360691,103410,warehouse_sweep,s,C,5/1/23 4:14,E10-E (BALESTIER)
+166121091,103410,global_inbound,m,C,5/1/23 4:15,D09-H
+166121091,103410,warehouse_sweep,m,C,5/1/23 4:16,D09-H
 167327391,104813,warehouse_sweep,xs,J,5/1/23 4:19,B06-G (CHESTNUT CLOSE)
 167213301,223,warehouse_sweep,s,J,5/1/23 4:24,D10-F (GOODWOOD RESIDENCE)
 167213301,223,warehouse_sweep,s,J,5/1/23 4:24,D10-F (GOODWOOD RESIDENCE)
@@ -498,10 +498,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 166913461,103410,global_inbound,xs,A,5/1/23 4:44,F10-C (LOWER PIERCE RESERVOIR PARK)
 167003991,251,warehouse_sweep,s,A,5/1/23 4:46,G08-J (BLUE RIVERVIEW)
 167361221,103429,global_inbound,s,A,5/1/23 4:47,H10-J (SERANGOON NORTH AVENUE 3)
-167042751,246,warehouse_sweep,xs,A,5/1/23 4:51,J08-K (EUNOS CRESCENT)
-167305671,104267,warehouse_sweep,s,A,5/1/23 4:55,L08-E (PASIR RIS STREET 52)
-167294991,103410,global_inbound,xs,B,5/1/23 4:57,F10-A (YIO CHU KANG)
-166984151,104267,warehouse_sweep,xs,B,5/1/23 4:59,L07-F (ELIAS ROAD)
+167042751,246,warehouse_sweep,xs,C,5/1/23 4:51,J08-K (EUNOS CRESCENT)
+167305671,104267,warehouse_sweep,s,C,5/1/23 4:55,L08-E (PASIR RIS STREET 52)
+167294991,103410,global_inbound,xs,C,5/1/23 4:57,F10-A (YIO CHU KANG)
+166984151,104267,warehouse_sweep,xs,C,5/1/23 4:59,L07-F (ELIAS ROAD)
 167265761,104267,warehouse_sweep,xs,B,5/1/23 5:02,L09-J (PASIR RIS STREET 21)
 167117171,104267,warehouse_sweep,xs,B,5/1/23 5:03,L09-J (PASIR RIS STREET 21)
 166853661,103410,global_inbound,xs,B,5/1/23 5:05,D10-C (FOUR SEASONS PARK)
@@ -515,8 +515,8 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167041441,103410,warehouse_sweep,m,C,5/1/23 5:45,H06-J  (COMPASSVALE BOW)
 167155631,103410,global_inbound,xs,C,5/1/23 5:46,D06-E
 167014331,253,warehouse_sweep,xs,C,5/1/23 5:46,E09-D (BENG WAN ROAD)
-167014331,253,warehouse_sweep,xs,D,5/1/23 5:48,E09-D (BENG WAN ROAD)
-167264331,104813,warehouse_sweep,xs,D,5/1/23 5:58,D03-B (CORONATION ROAD)
+167014331,253,warehouse_sweep,xs,C,5/1/23 5:48,E09-D (BENG WAN ROAD)
+167264331,104813,warehouse_sweep,xs,C,5/1/23 5:58,D03-B (CORONATION ROAD)
 167264331,104813,warehouse_sweep,xs,D,5/1/23 5:58,D03-B (CORONATION ROAD)
 167067241,256,warehouse_sweep,xs,D,5/1/23 6:04,H06-F (COMPASSVALE DRIVE)
 167112431,256,warehouse_sweep,xs,D,5/1/23 6:05,H03-L (PUNGGOL WATERWAY)
@@ -550,10 +550,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167172391,104957,warehouse_sweep,xs,I,5/1/23 10:35,A07-F
 167220171,103410,global_inbound,l,I,5/1/23 10:52,D04-E (ZION ROAD)
 167220171,103410,warehouse_sweep,l,I,5/1/23 10:52,D04-E (ZION ROAD)
-167224801,103410,global_inbound,xs,I,5/1/23 11:51,B01-B (JURONG EAST STREET31)
-167224801,103410,warehouse_sweep,xs,I,5/1/23 11:52,B01-B (JURONG EAST STREET31)
-166847591,103410,global_inbound,s,J,5/1/23 13:21,H06-D (COMPASSVALE WALK)
-166847591,103410,warehouse_sweep,s,J,5/1/23 13:21,H06-D (COMPASSVALE WALK)
+167224801,103410,global_inbound,xs,C,5/1/23 11:51,B01-B (JURONG EAST STREET31)
+167224801,103410,warehouse_sweep,xs,C,5/1/23 11:52,B01-B (JURONG EAST STREET31)
+166847591,103410,global_inbound,s,C,5/1/23 13:21,H06-D (COMPASSVALE WALK)
+166847591,103410,warehouse_sweep,s,C,5/1/23 13:21,H06-D (COMPASSVALE WALK)
 167182171,103430,global_inbound,m,J,5/1/23 14:37,H03-C (OASIS TERRACE)
 167066201,103410,warehouse_sweep,s,J,5/1/23 14:45,G10-E (YISHUN STREET 71)
 167066201,103410,warehouse_sweep,s,J,5/1/23 14:45,G10-E (YISHUN STREET 71)
@@ -620,10 +620,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167132281,103410,global_inbound,s,I,5/1/23 22:07,D05-F (GRANGE ROAD)
 167132281,103410,warehouse_sweep,s,I,5/1/23 22:07,D05-F (GRANGE ROAD)
 167331651,103410,global_inbound,xs,I,5/1/23 22:07,L05-A (SUNBIRD ROAD)
-167392181,103410,global_inbound,xs,I,5/1/23 22:18,B02-K (WEST COAST DRIVE)
-167392021,103410,global_inbound,s,I,5/1/23 22:18,J10-H (TEMBELING ROAD)
-167065161,103410,global_inbound,xs,J,5/1/23 22:33,H13-E (BUANGKOK EAST DRIVE)
-167193721,103410,global_inbound,m,J,5/1/23 22:35,E07-C (BENDEMEER)
+167392181,103410,global_inbound,xs,C,5/1/23 22:18,B02-K (WEST COAST DRIVE)
+167392021,103410,global_inbound,s,C,5/1/23 22:18,J10-H (TEMBELING ROAD)
+167065161,103410,global_inbound,xs,C,5/1/23 22:33,H13-E (BUANGKOK EAST DRIVE)
+167193721,103410,global_inbound,m,C,5/1/23 22:35,E07-C (BENDEMEER)
 167193721,103410,warehouse_sweep,m,J,5/1/23 22:36,E07-C (BENDEMEER)
 167319121,103410,global_inbound,xs,J,5/1/23 22:54,D09-C
 167386931,103426,global_inbound,xs,J,5/1/23 22:59,D09-B
@@ -637,10 +637,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167155631,223,warehouse_sweep,xs,A,5/1/23 23:24,D06-E
 167155631,223,warehouse_sweep,xs,A,5/1/23 23:26,D06-E
 167338061,103426,global_inbound,xs,A,5/1/23 23:28,K03-F (BLOOM LEISURE PARK)
-167066201,251,warehouse_sweep,s,A,5/1/23 23:29,G10-E (YISHUN STREET 71)
-167066201,251,warehouse_sweep,s,A,5/1/23 23:29,G10-E (YISHUN STREET 71)
-167089751,104957,warehouse_sweep,s,A,5/1/23 23:32,A03-G
-167320661,104957,warehouse_sweep,xs,B,5/1/23 23:34,H03-G (MERIDIAN PARK)
+167066201,251,warehouse_sweep,s,C,5/1/23 23:29,G10-E (YISHUN STREET 71)
+167066201,251,warehouse_sweep,s,C,5/1/23 23:29,G10-E (YISHUN STREET 71)
+167089751,104957,warehouse_sweep,s,C,5/1/23 23:32,A03-G
+167320661,104957,warehouse_sweep,xs,C,5/1/23 23:34,H03-G (MERIDIAN PARK)
 167096961,103410,global_inbound,xs,B,5/1/23 23:38,D06-K
 167063821,103410,global_inbound,xs,B,5/1/23 23:41,B10-H (OLD CHOA CHU KANG ROAD)
 167172391,104957,warehouse_sweep,xs,B,5/1/23 23:44,A07-F
@@ -709,10 +709,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167300201,103426,warehouse_sweep,m,A,6/1/23 2:48,K09-A (SIMPANG BEDOK)
 167380191,104813,warehouse_sweep,xs,A,6/1/23 2:49,B05-D (BUKIT BATOK STREET 41)
 167244091,246,warehouse_sweep,xs,A,6/1/23 2:49,J10-B (MARINE PARADE ROAD)
-167325341,103426,warehouse_sweep,xs,A,6/1/23 2:57,B02-B (CLEMENTI AVENUE 6)
-167256321,104813,warehouse_sweep,s,B,6/1/23 3:00,B05-L (BUKIT BATOK WEST AVENUE 7)
-167096961,223,warehouse_sweep,xs,B,6/1/23 3:00,D06-K
-167220171,223,warehouse_sweep,l,B,6/1/23 3:01,D04-E (ZION ROAD)
+167325341,103426,warehouse_sweep,xs,C,6/1/23 2:57,B02-B (CLEMENTI AVENUE 6)
+167256321,104813,warehouse_sweep,s,C,6/1/23 3:00,B05-L (BUKIT BATOK WEST AVENUE 7)
+167096961,223,warehouse_sweep,xs,C,6/1/23 3:00,D06-K
+167220171,223,warehouse_sweep,l,C,6/1/23 3:01,D04-E (ZION ROAD)
 167312241,251,warehouse_sweep,m,B,6/1/23 3:03,G12-J (YISHUN STREET 31)
 167182171,256,warehouse_sweep,m,B,6/1/23 3:03,H03-C (OASIS TERRACE)
 167319121,103426,warehouse_sweep,xs,B,6/1/23 3:07,D09-C
@@ -762,10 +762,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167409091,253,warehouse_sweep,xs,I,6/1/23 5:30,E05-C (DHOBY GHAUT)
 167277601,103410,global_inbound,s,I,6/1/23 5:31,L09-J (PASIR RIS STREET 21)
 167277601,103410,warehouse_sweep,s,I,6/1/23 5:31,L09-J (PASIR RIS STREET 21)
-167273291,103429,global_inbound,s,J,6/1/23 5:41,A03-C
-167402311,104267,warehouse_sweep,s,J,6/1/23 5:41,L07-J (PASIR RIS HEIGHTS)
-166877031,103429,global_inbound,s,J,6/1/23 5:45,K01-D (KAKI BUKIT AVENUE 1)
-166877031,103429,global_inbound,s,J,6/1/23 5:45,K01-D (KAKI BUKIT AVENUE 1)
+167273291,103429,global_inbound,s,C,6/1/23 5:41,A03-C
+167402311,104267,warehouse_sweep,s,C,6/1/23 5:41,L07-J (PASIR RIS HEIGHTS)
+166877031,103429,global_inbound,s,C,6/1/23 5:45,K01-D (KAKI BUKIT AVENUE 1)
+166877031,103429,global_inbound,s,C,6/1/23 5:45,K01-D (KAKI BUKIT AVENUE 1)
 166877031,103429,warehouse_sweep,s,J,6/1/23 5:45,K01-D (KAKI BUKIT AVENUE 1)
 166877031,103429,warehouse_sweep,s,J,6/1/23 5:45,K01-D (KAKI BUKIT AVENUE 1)
 167296551,104813,warehouse_sweep,s,J,6/1/23 5:46,B08-G (GREENRIDGE SHOPPING CTR)
@@ -811,10 +811,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167113741,237,warehouse_sweep,xs,F,6/1/23 9:20,F07-A (ANG MO KIO AVENUE 1)
 167113741,237,warehouse_sweep,xs,F,6/1/23 9:20,F07-A (ANG MO KIO AVENUE 1)
 167113741,237,warehouse_sweep,xs,F,6/1/23 9:20,F07-A (ANG MO KIO AVENUE 1)
-167429401,223,warehouse_sweep,s,F,6/1/23 9:25,D01-H (YARWOOD AVENUE)
-167429401,223,warehouse_sweep,s,F,6/1/23 9:25,D01-H (YARWOOD AVENUE)
-167381921,103410,warehouse_sweep,xs,G,6/1/23 9:27,E09-A (BOON KENG)
-167381921,103410,warehouse_sweep,xs,G,6/1/23 9:28,E09-A (BOON KENG)
+167429401,223,warehouse_sweep,s,C,6/1/23 9:25,D01-H (YARWOOD AVENUE)
+167429401,223,warehouse_sweep,s,C,6/1/23 9:25,D01-H (YARWOOD AVENUE)
+167381921,103410,warehouse_sweep,xs,C,6/1/23 9:27,E09-A (BOON KENG)
+167381921,103410,warehouse_sweep,xs,C,6/1/23 9:28,E09-A (BOON KENG)
 167429401,223,warehouse_sweep,s,G,6/1/23 9:32,D01-H (YARWOOD AVENUE)
 167429401,223,warehouse_sweep,s,G,6/1/23 9:33,D01-H (YARWOOD AVENUE)
 167422161,103410,global_inbound,s,G,6/1/23 9:48,E02-F (ANSON ROAD)
@@ -830,10 +830,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167210101,103410,warehouse_sweep,m,I,6/1/23 11:43,B02-F (CLEMENTI AVENUE 3)
 167210101,103410,global_inbound,m,I,6/1/23 11:43,B02-F (CLEMENTI AVENUE 3)
 167210101,103410,warehouse_sweep,m,I,6/1/23 11:44,B02-F (CLEMENTI AVENUE 3)
-167122131,104267,warehouse_sweep,s,I,6/1/23 11:44,K03-E (KAKIT BUKIT RESIDENTS PARK)
-167203241,104813,warehouse_sweep,s,I,6/1/23 12:25,D10-K (EXETER ROAD)
-167386471,103410,global_inbound,xs,J,6/1/23 13:54,D03-H (KAY SIANG ROAD)
-167386471,103410,warehouse_sweep,xs,J,6/1/23 13:54,D03-H (KAY SIANG ROAD)
+167122131,104267,warehouse_sweep,s,C,6/1/23 11:44,K03-E (KAKIT BUKIT RESIDENTS PARK)
+167203241,104813,warehouse_sweep,s,C,6/1/23 12:25,D10-K (EXETER ROAD)
+167386471,103410,global_inbound,xs,C,6/1/23 13:54,D03-H (KAY SIANG ROAD)
+167386471,103410,warehouse_sweep,xs,C,6/1/23 13:54,D03-H (KAY SIANG ROAD)
 167355261,103426,global_inbound,l,J,6/1/23 15:13,G03-F (LORONG SELANGAT)
 167330601,103410,global_inbound,s,J,6/1/23 15:32,A04-E
 167330601,103410,warehouse_sweep,s,J,6/1/23 15:32,A04-E
@@ -848,10 +848,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 166786411,103410,global_inbound,xs,A,6/1/23 18:25,K02-G (BEDOK RESERVOIR CR)
 167005841,103410,global_inbound,xs,A,6/1/23 18:30,A01-B
 166877031,103410,warehouse_sweep,s,A,6/1/23 18:36,K01-D (KAKI BUKIT AVENUE 1)
-166846831,103410,global_inbound,s,A,6/1/23 18:40,G03-E (PAYA LEBAR CRESCENT)
-167228021,103410,global_inbound,xs,A,6/1/23 18:43,H01-A (NORTHSHORE DRIVE)
-166900461,103410,global_inbound,xs,B,6/1/23 18:48,B03-H (CLEMENTI WOODS)
-167294251,103429,global_inbound,l,B,6/1/23 19:05,D10-C (FOUR SEASONS PARK)
+166846831,103410,global_inbound,s,C,6/1/23 18:40,G03-E (PAYA LEBAR CRESCENT)
+167228021,103410,global_inbound,xs,C,6/1/23 18:43,H01-A (NORTHSHORE DRIVE)
+166900461,103410,global_inbound,xs,C,6/1/23 18:48,B03-H (CLEMENTI WOODS)
+167294251,103429,global_inbound,l,C,6/1/23 19:05,D10-C (FOUR SEASONS PARK)
 167459151,103410,global_inbound,s,B,6/1/23 19:11,G01-K (SERANGOON AVENUE 4)
 167283211,103410,global_inbound,xs,B,6/1/23 19:12,L08-C (ELIAS GREEN)
 167302561,103429,global_inbound,s,B,6/1/23 19:19,K03-D (BEDOK RESERVOIR VIEW)
@@ -892,10 +892,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167121451,103410,global_inbound,m,H,6/1/23 22:51,D03-A (LEEDON HEIGHTS)
 167477001,103410,global_inbound,s,H,6/1/23 22:58,B02-E (CLEMENTI PEAKS)
 167429401,223,warehouse_sweep,s,H,6/1/23 23:09,D01-H (YARWOOD AVENUE)
-167493961,103410,global_inbound,s,H,6/1/23 23:10,G04-E (BIDADARI PARK DRIVE)
-167493961,103410,warehouse_sweep,s,H,6/1/23 23:10,G04-E (BIDADARI PARK DRIVE)
-167080981,103410,warehouse_sweep,m,I,6/1/23 23:14,C04-C (WOODLANDS DRIVE 62)
-167080981,103410,warehouse_sweep,m,I,6/1/23 23:14,C04-C (WOODLANDS DRIVE 62)
+167493961,103410,global_inbound,s,C,6/1/23 23:10,G04-E (BIDADARI PARK DRIVE)
+167493961,103410,warehouse_sweep,s,C,6/1/23 23:10,G04-E (BIDADARI PARK DRIVE)
+167080981,103410,warehouse_sweep,m,C,6/1/23 23:14,C04-C (WOODLANDS DRIVE 62)
+167080981,103410,warehouse_sweep,m,C,6/1/23 23:14,C04-C (WOODLANDS DRIVE 62)
 167080981,103410,global_inbound,m,I,6/1/23 23:14,C04-C (WOODLANDS DRIVE 62)
 167080981,103410,warehouse_sweep,m,I,6/1/23 23:15,C04-C (WOODLANDS DRIVE 62)
 167005841,104957,warehouse_sweep,xs,I,6/1/23 23:16,A01-B
@@ -919,10 +919,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 166874121,223,warehouse_sweep,xs,A,7/1/23 0:44,D05-A (SLIM BARRACKS RISE)
 167250941,103410,warehouse_sweep,s,A,7/1/23 0:44,E10-D (KAMPONG JAVA)
 167494001,103410,global_inbound,m,A,7/1/23 0:48,B05-F (BUKIT BATOK CENTRAL)
-167494001,103410,warehouse_sweep,m,A,7/1/23 0:50,B05-F (BUKIT BATOK CENTRAL)
-166379961,103410,global_inbound,l,B,7/1/23 0:55,D03-H (KAY SIANG ROAD)
-166379961,103410,warehouse_sweep,l,B,7/1/23 0:59,D03-H (KAY SIANG ROAD)
-167356121,103410,global_inbound,m,B,7/1/23 1:10,B04-F (BUKIT BATOK EAST AVENUE 3)
+167494001,103410,warehouse_sweep,m,C,7/1/23 0:50,B05-F (BUKIT BATOK CENTRAL)
+166379961,103410,global_inbound,l,C,7/1/23 0:55,D03-H (KAY SIANG ROAD)
+166379961,103410,warehouse_sweep,l,C,7/1/23 0:59,D03-H (KAY SIANG ROAD)
+167356121,103410,global_inbound,m,C,7/1/23 1:10,B04-F (BUKIT BATOK EAST AVENUE 3)
 167356121,103410,warehouse_sweep,m,B,7/1/23 1:11,B04-F (BUKIT BATOK EAST AVENUE 3)
 167448091,103410,global_inbound,xs,B,7/1/23 1:13,L10-F (LOYANG WAY)
 167410261,103429,global_inbound,s,B,7/1/23 1:20,A03-A
@@ -970,10 +970,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167315061,103429,global_inbound,s,I,7/1/23 4:40,F09-B (ANG MO KIO STREET 53)
 167283211,104267,warehouse_sweep,xs,I,7/1/23 4:40,L08-C (ELIAS GREEN)
 167342511,103429,global_inbound,m,I,7/1/23 4:58,H06-J  (COMPASSVALE BOW)
-166664831,103429,global_inbound,s,I,7/1/23 5:11,A07-E
-167294251,223,warehouse_sweep,l,I,7/1/23 5:12,D10-C (FOUR SEASONS PARK)
-167110741,223,warehouse_sweep,xs,J,7/1/23 5:13,D06-J
-167229561,104267,warehouse_sweep,xs,J,7/1/23 5:14,L08-A (PASIR RIS STREET 71)
+166664831,103429,global_inbound,s,C,7/1/23 5:11,A07-E
+167294251,223,warehouse_sweep,l,C,7/1/23 5:12,D10-C (FOUR SEASONS PARK)
+167110741,223,warehouse_sweep,xs,C,7/1/23 5:13,D06-J
+167229561,104267,warehouse_sweep,xs,C,7/1/23 5:14,L08-A (PASIR RIS STREET 71)
 166664831,103426,global_inbound,s,J,7/1/23 5:18,A07-E
 167320661,256,warehouse_sweep,xs,J,7/1/23 5:19,H03-G (MERIDIAN PARK)
 167488521,251,warehouse_sweep,s,J,7/1/23 5:25,G10-B (THE VISIONAIRE)
@@ -1032,10 +1032,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167031561,253,warehouse_sweep,xs,H,7/1/23 10:07,E04-A (BRAS BASAH)
 167066201,251,warehouse_sweep,s,H,7/1/23 11:26,G10-E (YISHUN STREET 71)
 167360621,104813,warehouse_sweep,xs,H,7/1/23 11:27,B04-C (TOH YI DRIVE)
-167066201,251,warehouse_sweep,s,H,7/1/23 11:40,G10-E (YISHUN STREET 71)
-167362231,104813,warehouse_sweep,s,H,7/1/23 17:53,B08-J (FAJAR STATION)
-167399461,103410,global_inbound,s,I,8/1/23 18:18,L06-J (TAMPINES NORTH DRIVE 2)
-167475551,103410,global_inbound,s,I,8/1/23 18:18,L09-F (PASIR RIS STREET 12)
+167066201,251,warehouse_sweep,s,C,7/1/23 11:40,G10-E (YISHUN STREET 71)
+167362231,104813,warehouse_sweep,s,C,7/1/23 17:53,B08-J (FAJAR STATION)
+167399461,103410,global_inbound,s,C,8/1/23 18:18,L06-J (TAMPINES NORTH DRIVE 2)
+167475551,103410,global_inbound,s,C,8/1/23 18:18,L09-F (PASIR RIS STREET 12)
 167113741,103410,global_inbound,xs,I,8/1/23 18:21,F07-A (ANG MO KIO AVENUE 1)
 167494371,103410,global_inbound,xs,I,8/1/23 18:22,A04-E
 167475551,103410,warehouse_sweep,s,I,8/1/23 18:25,L09-F (PASIR RIS STREET 12)
@@ -1109,10 +1109,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167400351,256,warehouse_sweep,s,I,8/1/23 23:48,H10-H (ANG MO KIO AVENUE 12)
 167517551,103410,global_inbound,s,I,8/1/23 23:48,D10-A (WHITE HOUSE PARK)
 167517551,103410,warehouse_sweep,s,I,8/1/23 23:48,D10-A (WHITE HOUSE PARK)
-167289861,103426,global_inbound,s,I,8/1/23 23:48,G13-D (JADE SPRING)
-167539051,103410,global_inbound,s,I,8/1/23 23:48,D06-L
-167363931,103410,global_inbound,m,I,8/1/23 23:48,K05-A (BEDOK NORTH STREET 1)
-167399211,103426,warehouse_sweep,xs,I,8/1/23 23:48,L03-H (TAMPINES STREET 45)
+167289861,103426,global_inbound,s,C,8/1/23 23:48,G13-D (JADE SPRING)
+167539051,103410,global_inbound,s,C,8/1/23 23:48,D06-L
+167363931,103410,global_inbound,m,C,8/1/23 23:48,K05-A (BEDOK NORTH STREET 1)
+167399211,103426,warehouse_sweep,xs,C,8/1/23 23:48,L03-H (TAMPINES STREET 45)
 167363931,103410,warehouse_sweep,m,J,8/1/23 23:48,K05-A (BEDOK NORTH STREET 1)
 167505261,103410,global_inbound,s,J,8/1/23 23:48,L03-A (TAMPINES STREET 21)
 167506141,103410,global_inbound,xs,J,8/1/23 23:48,B09-C (SENJA ROAD)
@@ -1128,10 +1128,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167405771,104267,warehouse_sweep,s,H,9/1/23 0:34,K03-A (BEDOK TOWN PARK)
 167398021,103426,global_inbound,xs,H,9/1/23 0:37,B09-G (TECK WHY CR)
 167399211,103426,global_inbound,xs,H,9/1/23 0:37,L03-H (TAMPINES STREET 45)
-167299101,104957,warehouse_sweep,m,H,9/1/23 0:40,A03-E
-167110741,104957,warehouse_sweep,xs,I,9/1/23 0:49,D06-J
-167400351,256,warehouse_sweep,s,I,9/1/23 0:49,H10-H (ANG MO KIO AVENUE 12)
-167517551,103410,global_inbound,s,I,9/1/23 0:51,D10-A (WHITE HOUSE PARK)
+167299101,104957,warehouse_sweep,m,C,9/1/23 0:40,A03-E
+167110741,104957,warehouse_sweep,xs,C,9/1/23 0:49,D06-J
+167400351,256,warehouse_sweep,s,C,9/1/23 0:49,H10-H (ANG MO KIO AVENUE 12)
+167517551,103410,global_inbound,s,C,9/1/23 0:51,D10-A (WHITE HOUSE PARK)
 167517551,103410,warehouse_sweep,s,I,9/1/23 0:52,D10-A (WHITE HOUSE PARK)
 167289861,103426,global_inbound,s,I,9/1/23 0:56,G13-D (JADE SPRING)
 167539051,103410,global_inbound,s,I,9/1/23 1:02,D06-L
@@ -1152,10 +1152,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167449681,103426,warehouse_sweep,xs,A,9/1/23 2:25,H12-D (HOUGANG STADIUM)
 167299101,104957,warehouse_sweep,m,A,9/1/23 2:26,A03-E
 167058931,104957,warehouse_sweep,xs,A,9/1/23 2:42,D02-G (BELMONT ROAD)
-167289861,103426,warehouse_sweep,s,A,9/1/23 2:48,G13-D (JADE SPRING)
-167067241,256,warehouse_sweep,xs,A,9/1/23 2:56,H06-F (COMPASSVALE DRIVE)
-167398021,103426,warehouse_sweep,xs,A,9/1/23 3:02,B09-G (TECK WHY CR)
-167517551,104957,warehouse_sweep,s,B,9/1/23 3:05,D10-A (WHITE HOUSE PARK)
+167289861,103426,warehouse_sweep,s,C,9/1/23 2:48,G13-D (JADE SPRING)
+167067241,256,warehouse_sweep,xs,C,9/1/23 2:56,H06-F (COMPASSVALE DRIVE)
+167398021,103426,warehouse_sweep,xs,C,9/1/23 3:02,B09-G (TECK WHY CR)
+167517551,104957,warehouse_sweep,s,C,9/1/23 3:05,D10-A (WHITE HOUSE PARK)
 167039281,256,warehouse_sweep,xs,B,9/1/23 3:05,H04-L (RIVERVALE GROVE)
 167278401,246,warehouse_sweep,m,B,9/1/23 3:09,J10-H (TEMBELING ROAD)
 167067241,256,warehouse_sweep,xs,B,9/1/23 3:11,H06-F (COMPASSVALE DRIVE)
@@ -1205,10 +1205,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167143261,251,warehouse_sweep,xs,I,9/1/23 6:34,G06-D (WOODLANDS STREET 83)
 167143261,251,warehouse_sweep,xs,I,9/1/23 6:36,G06-D (WOODLANDS STREET 83)
 166786411,104267,warehouse_sweep,xs,I,9/1/23 6:40,K02-G (BEDOK RESERVOIR CR)
-167363931,104267,warehouse_sweep,m,I,9/1/23 6:41,K05-A (BEDOK NORTH STREET 1)
-167476761,253,warehouse_sweep,xs,I,9/1/23 6:52,K10-L (FORT ROAD)
-167315061,237,warehouse_sweep,s,J,9/1/23 6:53,F09-B (ANG MO KIO STREET 53)
-167458291,237,warehouse_sweep,s,J,9/1/23 7:02,F07-B (ANG MO KIO STREET 31)
+167363931,104267,warehouse_sweep,m,C,9/1/23 6:41,K05-A (BEDOK NORTH STREET 1)
+167476761,253,warehouse_sweep,xs,C,9/1/23 6:52,K10-L (FORT ROAD)
+167315061,237,warehouse_sweep,s,C,9/1/23 6:53,F09-B (ANG MO KIO STREET 53)
+167458291,237,warehouse_sweep,s,C,9/1/23 7:02,F07-B (ANG MO KIO STREET 31)
 166379961,104957,warehouse_sweep,l,J,9/1/23 7:11,D03-H (KAY SIANG ROAD)
 167005801,255,warehouse_sweep,s,J,9/1/23 7:17,F06-A (LORNIE)
 167113741,237,warehouse_sweep,xs,J,9/1/23 7:34,F07-A (ANG MO KIO AVENUE 1)
@@ -1231,8 +1231,8 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167066201,103410,warehouse_sweep,s,B,9/1/23 18:05,G10-E (YISHUN STREET 71)
 167066201,103430,global_inbound,s,B,9/1/23 18:07,G10-E (YISHUN STREET 71)
 167066201,103430,global_inbound,s,B,9/1/23 18:08,G10-E (YISHUN STREET 71)
-167553411,103410,global_inbound,xs,B,9/1/23 18:09,D06-K
-167580601,103410,global_inbound,xs,B,9/1/23 18:16,E09-A (BOON KENG)
+167553411,103410,global_inbound,xs,C,9/1/23 18:09,D06-K
+167580601,103410,global_inbound,xs,C,9/1/23 18:16,E09-A (BOON KENG)
 167624861,103410,global_inbound,xs,C,9/1/23 18:17,G11-F (CHONG PANG VALE)
 167593181,103410,global_inbound,xs,C,9/1/23 18:21,D07-C
 167374571,103410,global_inbound,xs,C,9/1/23 18:24,B08-K (FAJAR ROAD)
@@ -1274,10 +1274,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167605931,103410,global_inbound,l,I,9/1/23 21:51,E08-B (ARAB STREET)
 167605931,103410,warehouse_sweep,l,I,9/1/23 21:51,E08-B (ARAB STREET)
 167658601,103410,global_inbound,s,I,9/1/23 22:01,L01-G (TAMPINES STREET 81)
-167642121,103410,global_inbound,xs,I,9/1/23 22:07,B04-A (SUNSET VIEW)
-167417721,103426,global_inbound,xs,I,9/1/23 22:07,H11-G (HOUGANG STREET 61)
-167656491,103410,global_inbound,xs,I,9/1/23 22:09,F10-E (ANG MO KIO AVENUE 9)
-167596601,103410,global_inbound,xs,J,9/1/23 22:30,L08-C (ELIAS GREEN)
+167642121,103410,global_inbound,xs,C,9/1/23 22:07,B04-A (SUNSET VIEW)
+167417721,103426,global_inbound,xs,C,9/1/23 22:07,H11-G (HOUGANG STREET 61)
+167656491,103410,global_inbound,xs,C,9/1/23 22:09,F10-E (ANG MO KIO AVENUE 9)
+167596601,103410,global_inbound,xs,C,9/1/23 22:30,L08-C (ELIAS GREEN)
 167660641,103410,global_inbound,s,J,9/1/23 22:30,L08-C (ELIAS GREEN)
 167660641,103410,warehouse_sweep,s,J,9/1/23 22:31,L08-C (ELIAS GREEN)
 167607541,103410,global_inbound,xs,J,9/1/23 22:40,E02-F (ANSON ROAD)
@@ -1293,10 +1293,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167591801,251,warehouse_sweep,xs,A,9/1/23 23:39,G03-B (SERANGOON CENTRAL)
 166932761,104957,warehouse_sweep,xs,A,9/1/23 23:41,D07-J
 167374571,104813,warehouse_sweep,xs,A,9/1/23 23:53,B08-K (FAJAR ROAD)
-167553411,104957,warehouse_sweep,xs,A,10/1/23 0:02,D06-K
-167593181,104957,warehouse_sweep,xs,A,10/1/23 0:04,D07-C
-167279461,104957,warehouse_sweep,xs,B,10/1/23 0:06,D01-E (ADAM PARK)
-167677701,103410,global_inbound,m,B,10/1/23 0:11,L08-G (PASIR RIS STREET 51)
+167553411,104957,warehouse_sweep,xs,C,10/1/23 0:02,D06-K
+167593181,104957,warehouse_sweep,xs,C,10/1/23 0:04,D07-C
+167279461,104957,warehouse_sweep,xs,C,10/1/23 0:06,D01-E (ADAM PARK)
+167677701,103410,global_inbound,m,C,10/1/23 0:11,L08-G (PASIR RIS STREET 51)
 167666181,103410,global_inbound,xs,B,10/1/23 0:12,G10-L (YISHUN STREET 81)
 167677701,103410,warehouse_sweep,m,B,10/1/23 0:14,L08-G (PASIR RIS STREET 51)
 167666181,103410,warehouse_sweep,xs,B,10/1/23 0:16,G10-L (YISHUN STREET 81)
@@ -1326,10 +1326,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167634681,104957,warehouse_sweep,xs,F,10/1/23 2:07,D04-C (PRINCE CHARLES CRESCENT)
 167642121,104813,warehouse_sweep,xs,F,10/1/23 2:09,B04-A (SUNSET VIEW)
 167660641,104267,warehouse_sweep,s,F,10/1/23 2:24,L08-C (ELIAS GREEN)
-167475551,104267,warehouse_sweep,s,F,10/1/23 2:48,L09-F (PASIR RIS STREET 12)
-167105891,104813,warehouse_sweep,xs,F,10/1/23 2:55,B02-B (CLEMENTI AVENUE 6)
-167456911,104957,warehouse_sweep,s,G,10/1/23 2:57,D07-J
-167626981,104813,warehouse_sweep,xs,G,10/1/23 3:11,B08-A (BUKIT PANJANG ROAD)
+167475551,104267,warehouse_sweep,s,C,10/1/23 2:48,L09-F (PASIR RIS STREET 12)
+167105891,104813,warehouse_sweep,xs,C,10/1/23 2:55,B02-B (CLEMENTI AVENUE 6)
+167456911,104957,warehouse_sweep,s,C,10/1/23 2:57,D07-J
+167626981,104813,warehouse_sweep,xs,C,10/1/23 3:11,B08-A (BUKIT PANJANG ROAD)
 167647891,104957,warehouse_sweep,l,G,10/1/23 3:15,D08-F
 167604571,104957,warehouse_sweep,xs,G,10/1/23 3:19,D08-C
 167604571,104957,warehouse_sweep,xs,G,10/1/23 3:19,D08-C
@@ -1364,10 +1364,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167536181,103410,global_inbound,xs,A,10/1/23 4:36,B10-F (CHOA CHU KANG NORTH 7)
 167536181,103410,warehouse_sweep,xs,A,10/1/23 4:36,B10-F (CHOA CHU KANG NORTH 7)
 167611971,103410,warehouse_sweep,m,A,10/1/23 4:36,B05-D (BUKIT BATOK STREET 41)
-167611971,103410,warehouse_sweep,m,A,10/1/23 4:37,B05-D (BUKIT BATOK STREET 41)
-167611971,103410,warehouse_sweep,m,B,10/1/23 4:37,B05-D (BUKIT BATOK STREET 41)
-167611971,103410,global_inbound,m,B,10/1/23 4:37,B05-D (BUKIT BATOK STREET 41)
-167611971,103410,warehouse_sweep,m,B,10/1/23 4:37,B05-D (BUKIT BATOK STREET 41)
+167611971,103410,warehouse_sweep,m,C,10/1/23 4:37,B05-D (BUKIT BATOK STREET 41)
+167611971,103410,warehouse_sweep,m,C,10/1/23 4:37,B05-D (BUKIT BATOK STREET 41)
+167611971,103410,global_inbound,m,C,10/1/23 4:37,B05-D (BUKIT BATOK STREET 41)
+167611971,103410,warehouse_sweep,m,C,10/1/23 4:37,B05-D (BUKIT BATOK STREET 41)
 167611971,103410,global_inbound,m,B,10/1/23 4:37,B05-D (BUKIT BATOK STREET 41)
 167619901,103410,global_inbound,xs,B,10/1/23 4:38,D07-J
 167650641,103410,global_inbound,xs,B,10/1/23 4:38,G03-D (SERANGOON LANE)
@@ -1396,10 +1396,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167662031,246,warehouse_sweep,xs,F,10/1/23 5:46,J09-J (LORONG 25A GEYLANG)
 167031831,253,warehouse_sweep,xs,F,10/1/23 5:54,E07-D (LORONG 1 GEYLANG)
 167067241,253,warehouse_sweep,xs,F,10/1/23 6:20,H06-F (COMPASSVALE DRIVE)
-167106471,237,warehouse_sweep,m,F,10/1/23 6:23,F10-D (ANG MO KIO STREET 62)
-167446101,253,warehouse_sweep,xs,F,10/1/23 6:25,E08-A (LAVENDER)
-167607541,253,warehouse_sweep,xs,G,10/1/23 6:36,E02-F (ANSON ROAD)
-165387601,255,warehouse_sweep,s,G,10/1/23 6:54,F01-C (LORONG 6 TOA PAYOH)
+167106471,237,warehouse_sweep,m,C,10/1/23 6:23,F10-D (ANG MO KIO STREET 62)
+167446101,253,warehouse_sweep,xs,C,10/1/23 6:25,E08-A (LAVENDER)
+167607541,253,warehouse_sweep,xs,C,10/1/23 6:36,E02-F (ANSON ROAD)
+165387601,255,warehouse_sweep,s,C,10/1/23 6:54,F01-C (LORONG 6 TOA PAYOH)
 167512031,243,warehouse_sweep,s,G,10/1/23 7:18,C04-C (WOODLANDS DRIVE 62)
 167580601,253,warehouse_sweep,xs,G,10/1/23 7:20,E09-A (BOON KENG)
 167580601,253,warehouse_sweep,xs,G,10/1/23 7:21,E09-A (BOON KENG)
@@ -1415,10 +1415,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167524461,104813,warehouse_sweep,s,I,10/1/23 12:19,B08-H (SAUJANA ROAD)
 167496591,103426,global_inbound,xs,I,10/1/23 13:56,B01-C (JURONG EAST STREET 32)
 167610191,169,global_inbound,s,I,10/1/23 14:24,A07-G
-167389231,2,global_inbound,m,I,10/1/23 14:56,B01-L (OLD TOH TUCK ROAD)
-167563121,103426,global_inbound,xs,I,10/1/23 16:12,D08-G
-167136111,103426,global_inbound,xs,J,10/1/23 16:26,G08-J (BLUE RIVERVIEW)
-167742421,169,global_inbound,l,J,10/1/23 17:15,L04-H (SIMEI STREET 6)
+167389231,2,global_inbound,m,C,10/1/23 14:56,B01-L (OLD TOH TUCK ROAD)
+167563121,103426,global_inbound,xs,C,10/1/23 16:12,D08-G
+167136111,103426,global_inbound,xs,C,10/1/23 16:26,G08-J (BLUE RIVERVIEW)
+167742421,169,global_inbound,l,C,10/1/23 17:15,L04-H (SIMEI STREET 6)
 167742421,169,global_inbound,l,J,10/1/23 17:20,L04-H (SIMEI STREET 6)
 166938951,103410,global_inbound,xs,J,10/1/23 18:08,B05-E (BUKIT BATOK STREET 11)
 167597651,103410,global_inbound,xs,J,10/1/23 18:13,G01-B  (SERANGOON GARDEN SECONDARY SCHOOL)
@@ -1434,10 +1434,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167620601,103410,global_inbound,m,A,10/1/23 18:54,D10-A (WHITE HOUSE PARK)
 167533351,103429,global_inbound,s,A,10/1/23 18:57,G07-F (WOODLANDS DRIVE 40)
 167620601,103410,warehouse_sweep,m,A,10/1/23 18:59,D10-A (WHITE HOUSE PARK)
-167274051,103410,global_inbound,xs,A,10/1/23 19:00,J10-A (AMBER ROAD)
-167031171,103410,global_inbound,s,B,10/1/23 19:05,E09-H (FARRER PARK)
-167665421,103410,global_inbound,xs,B,10/1/23 19:09,G11-L (YISHUN PARK)
-167665421,103410,warehouse_sweep,xs,B,10/1/23 19:10,G11-L (YISHUN PARK)
+167274051,103410,global_inbound,xs,C,10/1/23 19:00,J10-A (AMBER ROAD)
+167031171,103410,global_inbound,s,C,10/1/23 19:05,E09-H (FARRER PARK)
+167665421,103410,global_inbound,xs,C,10/1/23 19:09,G11-L (YISHUN PARK)
+167665421,103410,warehouse_sweep,xs,C,10/1/23 19:10,G11-L (YISHUN PARK)
 166922291,103410,global_inbound,s,B,10/1/23 19:18,J10-G (SERAYA LANE)
 167494871,103426,global_inbound,xs,B,10/1/23 19:51,H04-J  (RIVERVALE LN)
 167635651,103426,global_inbound,xs,B,10/1/23 19:52,G08-E (SEMBAWANG CLOSE)
@@ -1485,10 +1485,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167665421,251,warehouse_sweep,xs,I,10/1/23 23:37,G11-L (YISHUN PARK)
 167646651,103410,warehouse_sweep,m,I,10/1/23 23:38,B01-G (JURONG EAST STREET 13)
 167557921,251,warehouse_sweep,m,I,10/1/23 23:38,G09-J (CANBERRA WALK)
-167620601,104957,warehouse_sweep,m,I,10/1/23 23:39,D10-A (WHITE HOUSE PARK)
-167024981,104957,warehouse_sweep,xs,I,10/1/23 23:41,D03-A (LEEDON HEIGHTS)
-167742421,103410,global_inbound,l,J,10/1/23 23:44,L04-H (SIMEI STREET 6)
-167742421,103410,warehouse_sweep,l,J,10/1/23 23:45,L04-H (SIMEI STREET 6)
+167620601,104957,warehouse_sweep,m,C,10/1/23 23:39,D10-A (WHITE HOUSE PARK)
+167024981,104957,warehouse_sweep,xs,C,10/1/23 23:41,D03-A (LEEDON HEIGHTS)
+167742421,103410,global_inbound,l,C,10/1/23 23:44,L04-H (SIMEI STREET 6)
+167742421,103410,warehouse_sweep,l,C,10/1/23 23:45,L04-H (SIMEI STREET 6)
 167735841,103410,global_inbound,xs,J,10/1/23 23:51,K03-G (GARDEN HILL PARK)
 167735841,103410,warehouse_sweep,xs,J,10/1/23 23:52,K03-G (GARDEN HILL PARK)
 167611971,104813,warehouse_sweep,m,J,10/1/23 23:53,B05-D (BUKIT BATOK STREET 41)
@@ -1503,10 +1503,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167723551,256,warehouse_sweep,s,A,11/1/23 0:26,H11-F (HOUGANG STREET 92)
 167597651,251,warehouse_sweep,xs,A,11/1/23 0:43,G01-B  (SERANGOON GARDEN SECONDARY SCHOOL)
 167669931,256,warehouse_sweep,l,A,11/1/23 0:43,H02-H (PUNGGOL COAST ROAD)
-167389231,103410,global_inbound,m,A,11/1/23 0:56,B01-L (OLD TOH TUCK ROAD)
-167389231,103410,warehouse_sweep,m,A,11/1/23 0:56,B01-L (OLD TOH TUCK ROAD)
-167006981,103410,global_inbound,xs,B,11/1/23 1:06,A01-C
-167631921,103410,global_inbound,s,B,11/1/23 1:18,F04-D (BISHAN STREET 22)
+167389231,103410,global_inbound,m,C,11/1/23 0:56,B01-L (OLD TOH TUCK ROAD)
+167389231,103410,warehouse_sweep,m,C,11/1/23 0:56,B01-L (OLD TOH TUCK ROAD)
+167006981,103410,global_inbound,xs,C,11/1/23 1:06,A01-C
+167631921,103410,global_inbound,s,C,11/1/23 1:18,F04-D (BISHAN STREET 22)
 167631921,103410,warehouse_sweep,s,B,11/1/23 1:19,F04-D (BISHAN STREET 22)
 167659331,103410,global_inbound,s,B,11/1/23 1:24,D06-L
 167742021,103410,global_inbound,xs,B,11/1/23 1:27,H04-J  (RIVERVALE LN)
@@ -1535,10 +1535,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167666291,256,warehouse_sweep,m,F,11/1/23 2:40,H06-L (ANCHORVALE COURT)
 167017331,104957,warehouse_sweep,xs,F,11/1/23 2:46,D09-F
 167635651,103426,warehouse_sweep,xs,F,11/1/23 2:52,G08-E (SEMBAWANG CLOSE)
-167723921,104957,warehouse_sweep,xs,F,11/1/23 3:00,A01-C
-167527991,104813,warehouse_sweep,xs,F,11/1/23 3:02,B04-F (BUKIT BATOK EAST AVENUE 3)
-167652821,103426,warehouse_sweep,xs,F,11/1/23 3:02,G11-K (YISHUN STREET 21)
-167645391,251,warehouse_sweep,m,G,11/1/23 3:04,G07-K (WOODLANDS CRESCENT)
+167723921,104957,warehouse_sweep,xs,C,11/1/23 3:00,A01-C
+167527991,104813,warehouse_sweep,xs,C,11/1/23 3:02,B04-F (BUKIT BATOK EAST AVENUE 3)
+167652821,103426,warehouse_sweep,xs,C,11/1/23 3:02,G11-K (YISHUN STREET 21)
+167645391,251,warehouse_sweep,m,C,11/1/23 3:04,G07-K (WOODLANDS CRESCENT)
 167742421,104267,warehouse_sweep,l,G,11/1/23 3:05,L04-H (SIMEI STREET 6)
 167563121,103426,warehouse_sweep,xs,G,11/1/23 3:12,D08-G
 167417721,256,warehouse_sweep,xs,G,11/1/23 3:15,H11-G (HOUGANG STREET 61)
@@ -1555,10 +1555,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167006981,104957,warehouse_sweep,xs,I,11/1/23 3:34,A01-C
 167665731,103426,warehouse_sweep,s,I,11/1/23 3:34,H10-J (SERANGOON NORTH AVENUE 3)
 167704591,104267,warehouse_sweep,xs,I,11/1/23 3:36,K09-B (NEW UPPER CHANGI ROAD)
-167592831,104267,warehouse_sweep,xs,I,11/1/23 3:41,L10-B (UPPER CHANGI ROAD)
-166922291,246,warehouse_sweep,s,I,11/1/23 3:49,J10-G (SERAYA LANE)
-166922291,246,warehouse_sweep,s,J,11/1/23 3:49,J10-G (SERAYA LANE)
-167742021,256,warehouse_sweep,xs,J,11/1/23 3:50,H04-J  (RIVERVALE LN)
+167592831,104267,warehouse_sweep,xs,C,11/1/23 3:41,L10-B (UPPER CHANGI ROAD)
+166922291,246,warehouse_sweep,s,C,11/1/23 3:49,J10-G (SERAYA LANE)
+166922291,246,warehouse_sweep,s,C,11/1/23 3:49,J10-G (SERAYA LANE)
+167742021,256,warehouse_sweep,xs,C,11/1/23 3:50,H04-J  (RIVERVALE LN)
 167726631,104267,warehouse_sweep,xs,J,11/1/23 3:50,K03-H (FENGSHAN PRI)
 167274051,246,warehouse_sweep,xs,J,11/1/23 3:54,J10-A (AMBER ROAD)
 167619901,104957,warehouse_sweep,xs,J,11/1/23 4:06,D07-J
@@ -1625,10 +1625,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167602381,237,warehouse_sweep,m,I,11/1/23 8:13,F08-C (ANG MO KIO STREET 22)
 167676041,237,warehouse_sweep,xs,I,11/1/23 9:50,F10-A (YIO CHU KANG)
 166652771,97,warehouse_sweep,xs,I,11/1/23 10:17,J10-J (HAIG ROAD)
-167790781,169,global_inbound,s,I,11/1/23 13:09,H12-B (HOUGANG AVENUE 6)
-167790781,169,global_inbound,s,I,11/1/23 13:10,H12-B (HOUGANG AVENUE 6)
-167712571,103426,global_inbound,s,J,11/1/23 13:44,G10-E (YISHUN STREET 71)
-167432741,103429,global_inbound,s,J,11/1/23 14:18,H05-J (COMPASSVALE LN)
+167790781,169,global_inbound,s,C,11/1/23 13:09,H12-B (HOUGANG AVENUE 6)
+167790781,169,global_inbound,s,C,11/1/23 13:10,H12-B (HOUGANG AVENUE 6)
+167712571,103426,global_inbound,s,C,11/1/23 13:44,G10-E (YISHUN STREET 71)
+167432741,103429,global_inbound,s,C,11/1/23 14:18,H05-J (COMPASSVALE LN)
 167281121,103429,global_inbound,s,J,11/1/23 14:28,B10-G (CHOA CHU KANG CR)
 167735841,104267,warehouse_sweep,xs,J,11/1/23 15:17,K03-G (GARDEN HILL PARK)
 166914901,2,global_inbound,m,J,11/1/23 16:16,B04-C (TOH YI DRIVE)
@@ -1650,9 +1650,9 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167275021,103410,warehouse_sweep,s,B,11/1/23 19:02,B05-K (SENG CHEW QUARRY)
 167531711,103410,global_inbound,xs,B,11/1/23 19:06,L08-H (PASIR RIS DRIVE 1)
 167786611,103410,global_inbound,xs,B,11/1/23 19:07,D09-K
-167135891,103410,global_inbound,s,B,11/1/23 19:09,K06-C (JALAN ISMAIL)
-167138891,103410,warehouse_sweep,s,B,11/1/23 19:11,J10-A (AMBER ROAD)
-167138891,103410,warehouse_sweep,s,B,11/1/23 19:11,J10-A (AMBER ROAD)
+167135891,103410,global_inbound,s,C,11/1/23 19:09,K06-C (JALAN ISMAIL)
+167138891,103410,warehouse_sweep,s,C,11/1/23 19:11,J10-A (AMBER ROAD)
+167138891,103410,warehouse_sweep,s,C,11/1/23 19:11,J10-A (AMBER ROAD)
 167138891,103410,warehouse_sweep,s,C,11/1/23 19:12,J10-A (AMBER ROAD)
 167138891,103410,warehouse_sweep,s,C,11/1/23 19:12,J10-A (AMBER ROAD)
 167138891,103410,warehouse_sweep,s,C,11/1/23 19:12,J10-A (AMBER ROAD)
@@ -1660,7 +1660,7 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167138891,103410,warehouse_sweep,s,C,11/1/23 19:12,J10-A (AMBER ROAD)
 167627441,103410,global_inbound,s,C,11/1/23 19:13,D06-B
 167138891,103410,warehouse_sweep,s,C,11/1/23 19:13,J10-A (AMBER ROAD)
-167138891,103410,warehouse_sweep,s,D,11/1/23 19:13,J10-A (AMBER ROAD)
+167138891,103410,warehouse_sweep,s,C,11/1/23 19:13,J10-A (AMBER ROAD)
 167138891,103410,global_inbound,s,D,11/1/23 19:13,J10-A (AMBER ROAD)
 167627441,103410,warehouse_sweep,s,D,11/1/23 19:14,D06-B
 167534011,103410,global_inbound,xs,D,11/1/23 19:15,L01-G (TAMPINES STREET 81)
@@ -1681,10 +1681,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167734411,103426,global_inbound,xs,G,11/1/23 20:37,Z-Out of Zone
 167803591,103410,global_inbound,xs,G,11/1/23 20:38,G13-G (YISHUN STREET 61)
 167813141,103410,global_inbound,xs,G,11/1/23 20:40,F05-A (SIN MING)
-167806961,103410,global_inbound,xs,G,11/1/23 20:41,D02-D (NAMLY GROVE)
-167818171,169,global_inbound,m,G,11/1/23 20:57,E09-G (RACE COURSE ROAD)
-167133851,103410,global_inbound,xs,G,11/1/23 21:19,H07-K (BUANGKOK CRESCENT)
-167156581,103410,global_inbound,xs,H,11/1/23 21:34,F09-B (ANG MO KIO STREET 53)
+167806961,103410,global_inbound,xs,C,11/1/23 20:41,D02-D (NAMLY GROVE)
+167818171,169,global_inbound,m,C,11/1/23 20:57,E09-G (RACE COURSE ROAD)
+167133851,103410,global_inbound,xs,C,11/1/23 21:19,H07-K (BUANGKOK CRESCENT)
+167156581,103410,global_inbound,xs,C,11/1/23 21:34,F09-B (ANG MO KIO STREET 53)
 167156421,103410,global_inbound,xs,H,11/1/23 21:34,J10-E (CRESCENT ROAD)
 167702521,103410,global_inbound,xs,H,11/1/23 21:42,A04-G
 167756231,103410,global_inbound,xs,H,11/1/23 21:42,F06-C (UPPER THOMSON ROAD)
@@ -1747,10 +1747,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167803591,251,warehouse_sweep,xs,F,12/1/23 2:32,G13-G (YISHUN STREET 61)
 167623941,104267,warehouse_sweep,s,F,12/1/23 2:37,L01-E (TAMPINES STREET 83)
 167605421,251,warehouse_sweep,xs,F,12/1/23 2:40,G02-E (PARRY AVENUE)
-167615951,251,warehouse_sweep,s,F,12/1/23 2:40,G07-D (WOODLANDS DRIVE 72)
-167817201,256,warehouse_sweep,m,F,12/1/23 2:40,H09-H (FERNVALE LANE)
-167505011,104813,warehouse_sweep,xs,G,12/1/23 2:41,B05-L (BUKIT BATOK WEST AVENUE 7)
-167619931,251,warehouse_sweep,s,G,12/1/23 2:51,G04-D (ALKAFF CRESCENT)
+167615951,251,warehouse_sweep,s,C,12/1/23 2:40,G07-D (WOODLANDS DRIVE 72)
+167817201,256,warehouse_sweep,m,C,12/1/23 2:40,H09-H (FERNVALE LANE)
+167505011,104813,warehouse_sweep,xs,C,12/1/23 2:41,B05-L (BUKIT BATOK WEST AVENUE 7)
+167619931,251,warehouse_sweep,s,C,12/1/23 2:51,G04-D (ALKAFF CRESCENT)
 167794661,251,warehouse_sweep,xs,G,12/1/23 2:52,G04-A (NANYANG JUNIOR COLLEGE)
 167712571,103426,warehouse_sweep,s,G,12/1/23 2:57,G10-E (YISHUN STREET 71)
 167275021,104813,warehouse_sweep,s,G,12/1/23 2:58,B05-K (SENG CHEW QUARRY)
@@ -1783,10 +1783,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167716031,103410,global_inbound,m,A,12/1/23 4:43,K08-H (BEDOK NORTH ROAD)
 167590591,103410,warehouse_sweep,m,A,12/1/23 4:48,B09-G (TECK WHY CR)
 167590591,103410,global_inbound,m,A,12/1/23 4:48,B09-G (TECK WHY CR)
-167590591,103410,global_inbound,m,A,12/1/23 4:48,B09-G (TECK WHY CR)
-167590591,103410,warehouse_sweep,m,A,12/1/23 4:49,B09-G (TECK WHY CR)
-167558041,104267,warehouse_sweep,s,A,12/1/23 4:51,K01-J (EUNOS ZONE 7 RC)
-167281121,104813,warehouse_sweep,s,B,12/1/23 4:53,B10-G (CHOA CHU KANG CR)
+167590591,103410,global_inbound,m,C,12/1/23 4:48,B09-G (TECK WHY CR)
+167590591,103410,warehouse_sweep,m,C,12/1/23 4:49,B09-G (TECK WHY CR)
+167558041,104267,warehouse_sweep,s,C,12/1/23 4:51,K01-J (EUNOS ZONE 7 RC)
+167281121,104813,warehouse_sweep,s,C,12/1/23 4:53,B10-G (CHOA CHU KANG CR)
 167508361,103410,global_inbound,xs,B,12/1/23 4:57,F02-C (LORONG 3 TOA PAYOH)
 167405771,104267,warehouse_sweep,s,B,12/1/23 4:57,K03-A (BEDOK TOWN PARK)
 167547371,104813,warehouse_sweep,s,B,12/1/23 4:58,B09-D (SENJA LINK)
@@ -1809,10 +1809,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167156421,246,warehouse_sweep,xs,E,12/1/23 6:08,J10-E (CRESCENT ROAD)
 167269011,237,warehouse_sweep,xs,E,12/1/23 6:13,F10-C (LOWER PIERCE RESERVOIR PARK)
 167756231,255,warehouse_sweep,xs,E,12/1/23 6:52,F06-C (UPPER THOMSON ROAD)
-167756231,255,warehouse_sweep,xs,E,12/1/23 6:52,F06-C (UPPER THOMSON ROAD)
-167813141,255,warehouse_sweep,xs,E,12/1/23 7:05,F05-A (SIN MING)
-167734411,104957,warehouse_sweep,xs,F,12/1/23 7:21,Z-Out of Zone
-167817201,256,warehouse_sweep,m,F,12/1/23 7:23,H09-H (FERNVALE LANE)
+167756231,255,warehouse_sweep,xs,C,12/1/23 6:52,F06-C (UPPER THOMSON ROAD)
+167813141,255,warehouse_sweep,xs,C,12/1/23 7:05,F05-A (SIN MING)
+167734411,104957,warehouse_sweep,xs,C,12/1/23 7:21,Z-Out of Zone
+167817201,256,warehouse_sweep,m,C,12/1/23 7:23,H09-H (FERNVALE LANE)
 167588871,104957,warehouse_sweep,xs,F,12/1/23 7:24,L01-H (TAMPINES AVENUE 4)
 167156581,237,warehouse_sweep,xs,F,12/1/23 7:38,F09-B (ANG MO KIO STREET 53)
 167706801,237,warehouse_sweep,xs,F,12/1/23 7:41,F07-C (TECK GHEE)
@@ -1823,10 +1823,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167750051,253,warehouse_sweep,s,G,12/1/23 9:10,E05-B (MOUNT SOPHIA)
 167441951,103426,global_inbound,xs,G,12/1/23 10:01,C02-C (MARSILING RISE)
 167006981,2,warehouse_sweep,xs,G,12/1/23 10:55,A01-C
-167734411,97,warehouse_sweep,xs,G,12/1/23 11:02,Z-Out of Zone
-167805011,169,global_inbound,l,G,12/1/23 12:21,L10-D (OLD TAMPINES ROAD)
-167652821,251,warehouse_sweep,xs,H,12/1/23 14:57,G11-K (YISHUN STREET 21)
-167006981,2,warehouse_sweep,xs,H,12/1/23 18:10,A01-C
+167734411,97,warehouse_sweep,xs,C,12/1/23 11:02,Z-Out of Zone
+167805011,169,global_inbound,l,C,12/1/23 12:21,L10-D (OLD TAMPINES ROAD)
+167652821,251,warehouse_sweep,xs,C,12/1/23 14:57,G11-K (YISHUN STREET 21)
+167006981,2,warehouse_sweep,xs,C,12/1/23 18:10,A01-C
 167257001,103410,global_inbound,xs,H,12/1/23 18:10,B03-C (AYER RAJAH)
 167784541,103410,global_inbound,s,H,12/1/23 18:22,D10-K (EXETER ROAD)
 167784541,103410,warehouse_sweep,s,H,12/1/23 18:22,D10-K (EXETER ROAD)
@@ -1844,10 +1844,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167765651,103410,global_inbound,xl,J,12/1/23 19:02,D06-L
 167663411,103410,global_inbound,s,J,12/1/23 19:02,Z-Out of Zone
 167663411,103430,global_inbound,s,J,12/1/23 19:02,Z-Out of Zone
-167765651,103410,warehouse_sweep,xl,J,12/1/23 19:03,D06-L
-167833851,103410,global_inbound,xs,J,12/1/23 19:24,B07-E (KEAT HONG WOODS)
-167812101,103410,global_inbound,xs,A,12/1/23 19:31,G06-C (WOODLANDS STREET 82)
-167727021,103410,global_inbound,s,A,12/1/23 19:42,H00-A (Lazada GW)
+167765651,103410,warehouse_sweep,xl,C,12/1/23 19:03,D06-L
+167833851,103410,global_inbound,xs,C,12/1/23 19:24,B07-E (KEAT HONG WOODS)
+167812101,103410,global_inbound,xs,C,12/1/23 19:31,G06-C (WOODLANDS STREET 82)
+167727021,103410,global_inbound,s,C,12/1/23 19:42,H00-A (Lazada GW)
 167849921,103410,global_inbound,s,A,12/1/23 19:49,G03-B (SERANGOON CENTRAL)
 167278661,103426,global_inbound,m,A,12/1/23 20:05,H05-K (RANGGUNG STATION)
 167844921,103410,global_inbound,xs,A,12/1/23 20:09,H02-E (PUNGGOL ROAD)
@@ -1904,10 +1904,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167861951,256,warehouse_sweep,xs,I,13/1/23 0:10,H08-F (FERNVALE LINK)
 167834991,103410,global_inbound,xs,I,13/1/23 0:20,H02-D (PUNGGOL TEMP BUS INTER)
 167834991,103410,warehouse_sweep,xs,I,13/1/23 0:21,H02-D (PUNGGOL TEMP BUS INTER)
-167823631,104267,warehouse_sweep,xs,I,13/1/23 0:23,K06-G (JALAN BAIDURI)
-167711111,104813,warehouse_sweep,xs,I,13/1/23 0:28,B08-A (BUKIT PANJANG ROAD)
-167704751,251,warehouse_sweep,xs,I,13/1/23 0:32,G09-C (CANBERRA LINK)
-167727021,256,warehouse_sweep,s,I,13/1/23 0:32,H00-A (Lazada GW)
+167823631,104267,warehouse_sweep,xs,C,13/1/23 0:23,K06-G (JALAN BAIDURI)
+167711111,104813,warehouse_sweep,xs,C,13/1/23 0:28,B08-A (BUKIT PANJANG ROAD)
+167704751,251,warehouse_sweep,xs,C,13/1/23 0:32,G09-C (CANBERRA LINK)
+167727021,256,warehouse_sweep,s,C,13/1/23 0:32,H00-A (Lazada GW)
 167842351,104957,warehouse_sweep,xs,J,13/1/23 0:34,A07-E
 167610191,251,warehouse_sweep,s,J,13/1/23 0:41,A07-G
 167890001,103410,warehouse_sweep,m,J,13/1/23 0:42,B07-C (KEAT HONG LINK)
@@ -1916,10 +1916,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167089331,104957,warehouse_sweep,m,J,13/1/23 0:45,A07-G
 167812541,251,warehouse_sweep,s,J,13/1/23 0:46,G09-J (CANBERRA WALK)
 167130221,251,warehouse_sweep,s,J,13/1/23 0:53,G04-G (POTONG PASIR AVENUE 3)
-167789411,246,warehouse_sweep,m,J,13/1/23 0:55,J10-B (MARINE PARADE ROAD)
-167873321,103410,global_inbound,xs,A,13/1/23 1:06,E10-C (MINBU)
-167790381,103410,global_inbound,s,A,13/1/23 1:08,E09-B (ST GEORGE'S LANE)
-167423061,103410,global_inbound,xs,A,13/1/23 1:08,K04-H (TANAH MERAH KECHIL RISE)
+167789411,246,warehouse_sweep,m,C,13/1/23 0:55,J10-B (MARINE PARADE ROAD)
+167873321,103410,global_inbound,xs,C,13/1/23 1:06,E10-C (MINBU)
+167790381,103410,global_inbound,s,C,13/1/23 1:08,E09-B (ST GEORGE'S LANE)
+167423061,103410,global_inbound,xs,C,13/1/23 1:08,K04-H (TANAH MERAH KECHIL RISE)
 167815971,103410,global_inbound,xs,A,13/1/23 1:15,H02-J (EDGEFOELD PLAINS)
 167866241,103410,global_inbound,xs,A,13/1/23 1:15,K03-C (BEDOK RESERVOIR STATION)
 167891271,103410,global_inbound,xs,A,13/1/23 1:21,K06-G (JALAN BAIDURI)
@@ -1976,10 +1976,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167802411,103410,global_inbound,xs,I,13/1/23 4:27,G04-C (WOODLEIGH PARK)
 167278661,256,warehouse_sweep,m,I,13/1/23 4:27,H05-K (RANGGUNG STATION)
 167835131,103410,warehouse_sweep,l,I,13/1/23 4:27,K03-B (WATERFRONT ISLE)
-167477661,104813,warehouse_sweep,xs,I,13/1/23 4:35,B05-B (BUKIT BATOK ROAD)
-167774311,104813,warehouse_sweep,xs,I,13/1/23 4:40,B08-E (JELEBU ROAD)
-166914901,104813,warehouse_sweep,m,I,13/1/23 4:41,B04-C (TOH YI DRIVE)
-167443871,104267,warehouse_sweep,m,J,13/1/23 4:41,L09-J (PASIR RIS STREET 21)
+167477661,104813,warehouse_sweep,xs,C,13/1/23 4:35,B05-B (BUKIT BATOK ROAD)
+167774311,104813,warehouse_sweep,xs,C,13/1/23 4:40,B08-E (JELEBU ROAD)
+166914901,104813,warehouse_sweep,m,C,13/1/23 4:41,B04-C (TOH YI DRIVE)
+167443871,104267,warehouse_sweep,m,C,13/1/23 4:41,L09-J (PASIR RIS STREET 21)
 167669541,256,warehouse_sweep,xs,J,13/1/23 4:49,H08-F (FERNVALE LINK)
 167790661,256,warehouse_sweep,m,J,13/1/23 4:49,H08-J (PARC BOTANIA)
 167274071,103410,global_inbound,xs,J,13/1/23 4:53,D04-J (ROBERTSON QUAY)
@@ -1995,10 +1995,10 @@ order_id,depot_id,type,parcel_size,dest_zone_alpha,scanned_at,dest_zone
 167161901,104267,warehouse_sweep,xs,A,13/1/23 5:16,G04-D (ALKAFF CRESCENT)
 167805011,103410,global_inbound,l,A,13/1/23 5:19,L10-D (OLD TAMPINES ROAD)
 167805011,103410,warehouse_sweep,l,A,13/1/23 5:20,L10-D (OLD TAMPINES ROAD)
-167588871,103426,global_inbound,xs,A,13/1/23 5:21,L01-H (TAMPINES AVENUE 4)
-167588871,103410,warehouse_sweep,xs,A,13/1/23 5:21,L01-H (TAMPINES AVENUE 4)
-167531711,104267,warehouse_sweep,xs,B,13/1/23 5:22,L08-H (PASIR RIS DRIVE 1)
-167790781,103429,global_inbound,s,B,13/1/23 5:27,H12-B (HOUGANG AVENUE 6)
+167588871,103426,global_inbound,xs,C,13/1/23 5:21,L01-H (TAMPINES AVENUE 4)
+167588871,103410,warehouse_sweep,xs,C,13/1/23 5:21,L01-H (TAMPINES AVENUE 4)
+167531711,104267,warehouse_sweep,xs,C,13/1/23 5:22,L08-H (PASIR RIS DRIVE 1)
+167790781,103429,global_inbound,s,C,13/1/23 5:27,H12-B (HOUGANG AVENUE 6)
 167790781,103410,warehouse_sweep,s,B,13/1/23 5:27,H12-B (HOUGANG AVENUE 6)
 167849561,103410,global_inbound,xs,B,13/1/23 5:38,F02-B (LORONG 1A TOA PAYOH)
 167849561,103410,warehouse_sweep,xs,B,13/1/23 5:39,F02-B (LORONG 1A TOA PAYOH)

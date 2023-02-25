@@ -23,7 +23,9 @@ function MyChart() {
       {
         label: 'Count Inbound Parcels',
         data: data.map(item => item.count),
-        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+        // backgroundColor: 'rgba(232, 4, 44, 1)',
+        backgroundColor: 'rgba(75, 192, 192, 0.6)',
+        // borderColor: 'rgba(200, 4, 52, 1)',
         borderColor: 'rgba(75, 192, 192, 1)',
         borderWidth: 1
       }
