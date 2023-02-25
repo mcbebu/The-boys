@@ -4,9 +4,10 @@ import ChartJS from 'chart.js/auto';
 
 function MyChart() {
   const [data, setData] = useState([]);
+  const [count, setCount] = useState(2);
 
   useEffect(() => {
-    fetch('/getdata/02')
+    fetch(`/getdata/${count < 10 ? `0${count}` : count}`)
       .then(response => response.json())
       .then(data => {
         setData(data);
@@ -14,7 +15,7 @@ function MyChart() {
       .catch(error => {
         console.error('Error fetching data:', error);
       });
-  }, []);
+  }, [count]);
 
   const chartData = {
     labels: data.map(item => item.dest_zone_alpha),
@@ -29,29 +30,49 @@ function MyChart() {
     ]
   };
 
+
   const chartOptions = {
     scales: {
       xAxes: [
         {
           scaleLabel: {
             display: true,
-            labelString: 'Years'
+            labelString: 'Destination Zones',
+            fontColor: 'white'
           },
           ticks: {
-            beginAtZero: true
+            beginAtZero: true,
+            fontColor: 'white'
           },
-          position: 'bottom'
+          gridLines: {
+            color: 'rgba(255, 255, 255, 0.2)'
+          }
         }
       ],
       yAxes: [
         {
           ticks: {
-            beginAtZero: true
+            beginAtZero: true,
+            fontColor: 'white'
+          },
+          gridLines: {
+            color: 'rgba(255, 255, 255, 0.2)'
           }
         }
       ]
     }
   };
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      if (count === 30) {
+        setCount(2);
+      } else {
+        setCount(count + 1);
+      }
+    }, 10000);
+    return () => clearInterval(interval);
+  }, [count]);
 
   return (
     <Chart type="bar" data={chartData} options={chartOptions} />
