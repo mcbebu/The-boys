@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background:var(--color-dr);
+  color: var(--color-white);
+  line-height: 1.7;
 }
 
 code {
@@ -13,20 +17,17 @@ code {
 }
 
 :root {
-  --color-bg: #c80434;
+  --color-dr: #c80434;
   /* --color-bg-variant: #2c2c6c; */
-  --color-primary: #e8042c;
+  --color-lr: #e8042c;
   /* --color-primary-variant: rgba(77, 181, 255, 0.4); */
   --color-white: #fff;
-  --color-light: rgba(255, 255, 255, 0.6);
 
   --transition: all 400ms ease;
-}
 
-body {
-  background: var(--color-bg);
-  color: var(--color-white);
-  line-height: 1.7;
+  --container-width-lg: 75%;
+  --container-width-md: 86%;
+  --container-width-sm: 90%;
 }
 
 html {
@@ -35,4 +36,18 @@ html {
 
 ::-webkit-scrollbar {
     display: none;
+}
+
+/* section {
+  margin-top: 8rem;
+  height: 20vh;
+} */
+
+.container {
+  width: var(--container-width-lg);
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 3rem;
 }

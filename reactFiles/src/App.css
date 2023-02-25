@@ -1,5 +1,19 @@
 .Title {
-  text-align: center;
+
+  display:flex;
+  align-items: center;
+  /* background-color: yellow; */
+  justify-content: center;
+
+}
+
+.ninja {
+  color: black;
+}
+
+.ninjapic {
+  width: 5rem;
+  height: 5rem;
 }
 
 
