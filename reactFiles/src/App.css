@@ -9,6 +9,12 @@
 
 .ninja {
   color: black;
+  font-size: 4rem;
+}
+
+.eye {
+  color: white;
+  font-size: 4rem;
 }
 
 /* .van {

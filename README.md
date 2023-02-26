@@ -3,11 +3,11 @@
 Members: Brandon, Qijie, Malcolm, Jared
 
 ## Problem Statement
-In warehouses that rely on manual labour for sorting, during peak periods there is a large volume of both workers and packages. This in combination with bad visibility of package movement causes the manager to rely on his perception of where the choke points are. 
+In warehouses that rely on manual labour for sorting, there are a large volume of both workers and parcels during peak periods. Subobtimal manpower allocation due to poor visibility of parcels and worker movement will lead to increased workload for workers and slower parcel processing rate.
 
 ## Project Description:
 ### Solution
-> Creating an updated Dashboard to improve visualbility of package load in the warehouse to enable efficient manpower allocations
+> Creating a real-time Intellegent Visualisation Tool to improve visilbility of parcel load and worker's movements to enable efficient manpower allocation during peak periods.
 
 ### MVP
-> Provide a quick glance dashboard that shows the number of packages being processed, percentage of each size and how many steps it has taken measured by unique scans
+> A high-powered quick-glance Intellegent Visualisation Tool that shows real-time the number of parcels being processed, proportion of packages that is sorted at different zones in the warehouse, and the number of workers working at the different zones.

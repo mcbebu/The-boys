@@ -1,6 +1,7 @@
 .Vis1Section {
     background-color: var(--color-lr);
     padding: 30px;
+    border-radius: 10px;
 }
 
 .Titles {
@@ -26,4 +27,12 @@
 .AISection {
     background-color: var(--color-lr);
     padding: 30px;
+    border-radius: 10px;
 }
+
+.AISection2 {
+    background-color: var(--color-lr);
+    padding: 30px;
+    border-radius: 10px;
+}
+
