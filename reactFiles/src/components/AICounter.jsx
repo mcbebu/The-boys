@@ -2,7 +2,7 @@ import React from 'react'
 import MyVideoPlayer from './MyVideoPlayer'
 import MyVideoPlayer2 from './MyVideoPlayer2'
 
-import { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
+import { Navigation, Pagination} from 'swiper';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -17,7 +17,6 @@ const AICounter = () => {
   return (
     <section id='aicounter'>
       <Swiper
-      // install Swiper modules
       modules={[Navigation, Pagination]}
       spaceBetween={40}
       slidesPerView={1}

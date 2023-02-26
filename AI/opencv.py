@@ -12,12 +12,8 @@ def video_feed():
             ret, frame = cap.read()
             if not ret:
                 break
-            # Here you can perform any OpenCV processing on the frame
-            # For example, convert to grayscale
             frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-            # Encode the frame as a JPEG image
             ret, jpeg = cv2.imencode('.jpg', frame)
-            # Convert the JPEG image to bytes and yield it to the client
             yield (b'--frame\r\n'
                    b'Content-Type: image/jpeg\r\n\r\n' + jpeg.tobytes() + b'\r\n')
 

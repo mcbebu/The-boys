@@ -5,7 +5,6 @@ import os
   
 x = datetime.datetime.now()
   
-# Initializing flask app
 app = Flask(__name__)
 count = 1
  
@@ -32,14 +31,10 @@ def home():
     return "invalid api call please include datetime"
 @app.route('/getdata/<count>')
 def get_time(count):
-    #return send_from_directory('./Dataset', f'data_2023-01-{count}.json')
     file_name = f'data_2023-01-{count}.json'
     file_path = os.path.join(os.getcwd(),file_name)
     folder = os.path.join(os.getcwd(), "Dataset/")
     return send_from_directory(os.path.dirname(folder), os.path.basename(file_path))
 
-    
-      
-# Running app
 if __name__ == '__main__':
     app.run(debug=True)
